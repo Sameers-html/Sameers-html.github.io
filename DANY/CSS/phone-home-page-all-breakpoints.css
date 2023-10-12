@@ -1,0 +1,5028 @@
+/* screen - home-page */
+
+.home-page {
+  background-color: var(--black-haze);
+  height: 5400px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+html{
+  scroll-behavior: smooth;
+  
+}
+/* .solutions .scroll-vkJ6fH {
+  background-color: transparent;
+  height: 34px;
+  left: 930px;
+  position: absolute;
+  top: 962px;
+  width: 60px;
+} */
+
+.chevron {
+  position: absolute;
+  width: 317px;
+  height: 37px;
+  left: 669px;
+  top: 274px;
+  opacity: 0;
+  transform: scale3d(0.5, 0.5, 0.5);
+  -webkit-animation: move 3s ease-out infinite;
+          animation: move 3s ease-out infinite;}
+.chevron_tab {
+  position: absolute;
+  width: 235px;
+  height: 37px;
+  left: 252px;
+  top: 861px;
+  opacity: 0;
+  transform: scale3d(0.5, 0.5, 0.5);
+  -webkit-animation: move 3s ease-out infinite;
+          animation: move 3s ease-out infinite;
+}
+.chevron_mob {
+  position: absolute;
+  width: 187px;
+  height: 38px;
+  left: 120px;
+  top: 1063px;
+  opacity: 0;
+  transform: scale3d(0.5, 0.5, 0.5);
+  -webkit-animation: move 3s ease-out infinite;
+          animation: move 3s ease-out infinite
+}
+  .sc{
+    background-color: transparent;
+    /* bottom: -5px; */
+    color: var(--venice-blue);
+    font-family: var(--font-family-arialrounded_mt-regular);
+    font-size: var(--font-size-xxxxxl);
+    font-style: normal;
+    font-weight: 400;
+    height: 48px;
+    letter-spacing: 2.00px;
+    line-height: 40px;
+    position: absolute;
+    right: calc(49.86% - 470px);
+    text-align: center;
+    white-space: nowrap;
+    width: 942px;
+  }
+
+.chevron:first-child {
+  -webkit-animation: move 3s ease-out 1s infinite;
+          animation: move 3s ease-out 1s infinite;
+}
+.chevron_tab:first-child {
+  -webkit-animation: move 3s ease-out 1s infinite;
+          animation: move 3s ease-out 1s infinite;
+}
+.chevron_mob:first-child {
+  -webkit-animation: move 3s ease-out 1s infinite;
+          animation: move 3s ease-out 1s infinite;
+}
+
+.chevron:nth-child(2) {
+  -webkit-animation: move 3s ease-out 2s infinite;
+          animation: move 3s ease-out 2s infinite;
+}
+.chevron_tab:nth-child(2) {
+  -webkit-animation: move 3s ease-out 2s infinite;
+          animation: move 3s ease-out 2s infinite;
+}
+.chevron_mob:nth-child(2) {
+  -webkit-animation: move 3s ease-out 2s infinite;
+          animation: move 3s ease-out 2s infinite;
+}
+
+.chevron:before,
+.chevron:after {
+  content: ' ';
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 51%;
+  background: #fff;
+}
+.chevron_tab:before,
+.chevron_tab:after {
+  content: ' ';
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 51%;
+  background: #fff;
+}
+.chevron_mob:before,
+.chevron_mob:after {
+  content: ' ';
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 51%;
+  background: #fff;
+}
+
+.chevron:before {
+  left: 0;
+  transform: skew(0deg, 30deg);
+  background: #Fdc500;
+}
+.chevron_tab:before {
+  left: 0;
+  transform: skew(0deg, 30deg);
+  background: #Fdc500;
+}
+.chevron_mob:before {
+  left: 0;
+  transform: skew(0deg, 30deg);
+  background: #Fdc500;
+}
+
+.chevron:after {
+  right: 0;
+  width: 50%;
+  transform: skew(0deg, -30deg);
+  background: #Fdc500;
+}
+.chevron_tab:after {
+  right: 0;
+  width: 50%;
+  transform: skew(0deg, -30deg);
+  background: #Fdc500;
+}
+.chevron_mob:after {
+  right: 0;
+  width: 50%;
+  transform: skew(0deg, -30deg);
+  background: #Fdc500;
+}
+
+@-webkit-keyframes move {
+  25% {
+    opacity: 1;
+
+  }
+  33% {
+    opacity: 1;
+    transform: translateY(30px);
+  }
+  67% {
+    opacity: 1;
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(55px) scale3d(0.5, 0.5, 0.5);
+  }
+}
+
+@keyframes move {
+  25% {
+    opacity: 1;
+
+  }
+  33% {
+    opacity: 1;
+    transform: translateY(30px);
+  }
+  67% {
+    opacity: 1;
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(55px) scale3d(0.5, 0.5, 0.5);
+  }
+}
+
+
+
+.home-page .to-fullfill-your-business-needs-you-need-xVxyAW {
+  background-color: var(--black-haze);
+  height: 155px;
+  left: 490px;
+  position: absolute;
+  top: 2271px;
+  width: 904px;
+}
+
+.home-page .text-1-xVxyAW {
+  background-color: transparent;
+  height: 553px;
+  left: 140px;
+  position: absolute;
+  top: 1164px;
+  width: 1640px;
+}
+
+.home-page .x1-tb-icon4x-HBIzEq {
+  background-color: transparent;
+  height: 346px;
+  left: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 477px;
+}
+
+.home-page .group-1-HBIzEq {
+  background-color: transparent;
+  height: 241px;
+  position: absolute;
+  right: 0px;
+  top: 53px;
+  width: 1022px;
+}
+
+.home-page .because-the-competit-I1hx51 {
+  background-color: transparent;
+  height: 94px;
+  left: 0px;
+  letter-spacing: 2.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-page .our-passion-for-the-I1hx51 {
+  background-color: transparent;
+  bottom: -10px;
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 130px;
+  left: 0px;
+  letter-spacing: 1.40px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 54px);
+}
+
+.home-page .let-us-help-you-thro-HBIzEq {
+  background-color: transparent;
+  bottom: -5px;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 48px;
+  letter-spacing: 2.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(49.86% - 470px);
+  text-align: center;
+  white-space: nowrap;
+  width: 942px;
+}
+
+.home-page .group-25-xVxyAW {
+  background-color: transparent;
+  height: 46px;
+  left: 561px;
+  position: absolute;
+  top: 2368px;
+  width: 800px;
+}
+
+.home-page .to-fullfill-your-business-needs-you-need-QIEjHI {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-page .text-2-xVxyAW {
+  background-color: transparent;
+  height: 162px;
+  left: 211px;
+  position: absolute;
+  top: 3324px;
+  width: 1500px;
+}
+
+.home-page .not-your-average-saa-s-company-SoNNxN {
+  background-color: transparent;
+  height: 48px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(49.88% - 324px);
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+  width: 650px;
+}
+
+.home-page .we-continue-to-recog-SoNNxN {
+  background-color: transparent;
+  bottom: -7px;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arial_rounded_mt);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  height: 76px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-page .span0-xGkvuC {
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-style: normal;
+}
+
+.home-page .span1-xGkvuC {
+}
+
+.home-page .span2-xGkvuC {
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-style: normal;
+}
+
+.home-page .x1-trolley-xVxyAW {
+  background-color: transparent;
+  height: 326px;
+  left: 394px;
+  position: absolute;
+  top: 3571px;
+  width: 254px;
+}
+
+.home-page .x1-trolly-3ExBz3 {
+  background-color: transparent;
+  height: 232px;
+  left: 9px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 20px);
+}
+
+.home-page .x1-trolley-b2-c-nA2Tg8 {
+  background-color: transparent;
+  height: calc(100.00% - 25px);
+  left: 13px;
+  position: relative;
+  top: 13px;
+  width: calc(100.00% - 24px);
+}
+
+.home-page .x1-trolley-b2-c-snRMze {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .x1-trolleymarketplace-3ExBz3 {
+  background-color: transparent;
+  bottom: -20px;
+  height: 86px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-page .span0-xoShxP {
+}
+
+.home-page .span1-xoShxP {
+  padding-top: 25px;
+}
+
+.home-page .flock-xVxyAW {
+  background-color: transparent;
+  height: 313px;
+  left: 815px;
+  position: absolute;
+  top: 3584px;
+  width: 292px;
+}
+
+.home-page .flock-mtfXQX {
+  background-color: transparent;
+  height: 207px;
+  left: 41px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 82px);
+}
+
+.home-page .flock-xPRttA {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .flockon-demand-deliv-mtfXQX {
+  background-color: transparent;
+  bottom: -20px;
+  height: 86px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-page .span0-WvduK1 {
+}
+
+.home-page .span1-WvduK1 {
+  padding-top: 25px;
+}
+
+.home-page .x1-pay-xVxyAW {
+  background-color: transparent;
+  height: 310px;
+  left: 1304px;
+  position: absolute;
+  top: 3587px;
+  width: 202px;
+}
+
+.home-page .x1-pay-P8UWxF {
+  background-color: transparent;
+  height: 200px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .x1-pay-F3ufXu {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .x1-payblockchain-paymentgateway-P8UWxF {
+  background-color: transparent;
+  bottom: -20px;
+  height: 86px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+
+.home-page .span0-ukSkxF {
+}
+
+.home-page .span1-ukSkxF {
+  padding-top: 25px;
+}
+
+.home-page .clients-xVxyAW {
+  background-color: transparent;
+  height: 270px;
+  left: 140px;
+  position: absolute;
+  top: 4047px;
+  width: 1640px;
+}
+
+.home-page .some-of-our-clients-YoKxC0 {
+  background-color: transparent;
+  height: 48px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(49.92% - 194px);
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 388px;
+}
+
+.home-page .clients-YoKxC0 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 176px;
+  left: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.home-page .footer-xVxyAW {
+  background-color: transparent;
+  height: 996px;
+  left: 0px;
+  position: absolute;
+  top: 4404px;
+  width: 100%;
+}
+
+.home-page .rectangle-5-YuF6ZZ {
+  background: linear-gradient(129.72deg, #125c8f 15.36%, #06198d 91.04%, #06178d 104.46%);
+  background-color: transparent;
+  border-radius: 0px 0px 150px 150px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(180deg);
+  width: 100%;
+}
+
+.home-page .lets-make-it-all-happen-YuF6ZZ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 48px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(49.93% - 242px);
+  text-align: center;
+  top: 66px;
+  white-space: nowrap;
+  width: 484px;
+}
+
+.home-page .if-youre-ready-to-se-YuF6ZZ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 76px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(49.89% - 507px);
+  text-align: center;
+  top: 131px;
+  white-space: nowrap;
+  width: 1016px;
+}
+
+.home-page .rectangle-11-YuF6ZZ {
+  background-color: var(--white);
+  border-radius: 48px;
+  bottom: 127px;
+  box-shadow: 13px 7px 12px #00000029;
+  height: 606px;
+  left: 443px;
+  position: absolute;
+  width: calc(100.00% - 886px);
+}
+
+.home-page .rectangle-6-YuF6ZZ {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 63px;
+  left: calc(30.73% - 61px);
+  position: absolute;
+  top: calc(41.21% - 26px);
+  width: 197px;
+}
+
+.home-page .rectangle-7-YuF6ZZ {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 63px;
+  left: calc(42.71% - 88px);
+  position: absolute;
+  top: calc(41.21% - 26px);
+  width: 205px;
+}
+
+.home-page .rectangle-8-YuF6ZZ {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  bottom: calc(46.68% - 29px);
+  height: 63px;
+  left: calc(35.06% - 143px);
+  position: absolute;
+  width: 407px;
+}
+
+.home-page .rectangle-9-YuF6ZZ {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  bottom: calc(35.10% - 22px);
+  height: 63px;
+  left: calc(35.06% - 143px);
+  position: absolute;
+  width: 407px;
+}
+
+.home-page .rectangle-10-YuF6ZZ {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  bottom: calc(46.00% - 131px);
+  height: 284px;
+  position: absolute;
+  right: calc(34.80% - 142px);
+  width: 407px;
+}
+
+.home-page .full-name-YuF6ZZ {
+  background-color: transparent;
+  height: 20px;
+  left: calc(28.80% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: calc(36.58% - 7px);
+  white-space: nowrap;
+  width: 80px;
+}
+
+.home-page .companys-name-YuF6ZZ {
+  background-color: transparent;
+  height: 20px;
+  left: calc(41.17% - 56px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: calc(36.58% - 7px);
+  white-space: nowrap;
+  width: 137px;
+}
+
+.home-page .email-YuF6ZZ {
+  background-color: transparent;
+  height: 20px;
+  left: calc(28.39% - 13px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: calc(48.36% - 10px);
+  white-space: nowrap;
+  width: 46px;
+}
+
+.home-page .phone-number-YuF6ZZ {
+  background-color: transparent;
+  bottom: calc(40.06% - 8px);
+  height: 20px;
+  left: calc(29.52% - 35px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 118px;
+}
+
+.home-page .request-a-customized-solution-optional-YuF6ZZ {
+  background-color: transparent;
+  color: var(--geyser);
+  font-family: var(--font-family-arial_rounded_mt);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(38.10% - 123px);
+  text-align: center;
+  top: calc(36.58% - 7px);
+  white-space: nowrap;
+  width: 324px;
+}
+
+.home-page .span0-r3xCBu {
+}
+
+.home-page .span1-r3xCBu {
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-style: normal;
+}
+
+.home-page .component-5-8-YuF6ZZ {
+  background-color: transparent;
+  bottom: calc(20.77% - 18px);
+  cursor: pointer;
+  height: 86px;
+  left: calc(48.86% - 167px);
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 342px;
+  cursor: pointer;
+}
+
+/* .home-page .component-5-8-YuF6ZZ:hover {
+  background-color: #125C8F
+} */
+
+.home-page .rectangle-12-2cUUKx {
+  background-color: var(--black-haze);
+  border-radius: 43px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  font-family: var(--font-family-arialrounded_mt-bold);
+  color: var(--venice-blue);
+  font-size: 32px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+.home-page .rectangle-12-2cUUKx:hover {
+  background: linear-gradient(66.08deg, #125c8f 19.53%, #06198d 79.04%, #06178d 89.59%);
+  color: var(--white);
+
+}
+
+.home-page .request-contact-2cUUKx {
+  background-color: transparent;
+  bottom: calc(41.49% - 16px);
+  height: 39px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 79px);
+}
+
+.home-page .x2022-1-trolley-busin-YuF6ZZ {
+  background-color: transparent;
+  bottom: 41px;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(49.90% - 179px);
+  text-align: left;
+  white-space: nowrap;
+  width: 359px;
+}
+
+.home-page .x1234-YuF6ZZ {
+  background-color: transparent;
+  bottom: 40px;
+  height: 27px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  right: 140px;
+  width: 161px;
+}
+
+.home-page .header-xVxyAW {
+  background-color: transparent;
+  height: 996px;
+  left: 0px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+
+.home-page .rectangle-1-FLHHzU {
+  background: linear-gradient(66.08deg, #125c8f 19.53%, #06198d 79.04%, #06178d 89.59%);
+  background-color: transparent;
+  border-radius: 0px 0px 150px 150px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .airbus-xo-connected-fleet-FLHHzU {
+  background-color: transparent;
+  border-radius: 0px 0px 150px 150px;
+  height: 100%;
+  left: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .x1-tb-logo-xVxyAW {
+  background-color: transparent;
+  height: 68px;
+  left: 140px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 310px;
+}
+
+.home-page .home-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 1519px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home-page .home-text-xVxyAW {
+  background-color: transparent;
+  height: 402px;
+  left: 136px;
+  position: absolute;
+  top: 378px;
+  width: 757px;
+}
+
+.home-page .empowering-communities-GQZjYn {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 72px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-page .through-digital-transformation-GQZjYn {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 34px;
+  left: 4px;
+  letter-spacing: 2.80px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.11% - 7px);
+  white-space: nowrap;
+  width: 493px;
+}
+
+.home-page .award-14x-GQZjYn {
+  background-color: transparent;
+  bottom: calc(21.04% - 21px);
+  height: 98px;
+  left: 56px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  width: 130px;
+}
+
+.home-page .award-24x-GQZjYn {
+  background-color: transparent;
+  bottom: calc(21.04% - 21px);
+  height: 98px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  right: calc(43.86% - 57px);
+  width: 130px;
+}
+
+.home-page .x1st-portfolio-compan-GQZjYn {
+  background-color: transparent;
+  bottom: -5px;
+  height: 40px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 237px;
+}
+
+.home-page .ebrd-star-venture-aw-GQZjYn {
+  background-color: transparent;
+  bottom: -5px;
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(41.65% - 118px);
+  text-align: center;
+  white-space: nowrap;
+  width: 284px;
+}
+
+.home-page .solutions-xVxyAW {
+  background-color: transparent;
+  height: 19px;
+  left: 1615px;
+  position: absolute;
+  top: 45px;
+  width: 68px;
+}
+
+.home-page .component-1-1-2Tn708 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .solutions-cxNHZx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-page .line-1-2Tn708 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: 1px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  width: 57px;
+}
+
+.home-page .mobile-xVxyAW {
+  background-color: transparent;
+  /* cursor: pointer; */
+  height: 1021px;
+  left: 891px;
+  pointer-events: auto;
+  position: absolute;
+  top: 67px;
+  /* transition: all 0.3s ease-in-out; */
+  width: 909px;
+  -webkit-animation: move2 1.5s ease-out infinite;
+          animation: move2 1.5s ease-out infinite;
+}
+
+/* .home-page .mobile-xVxyAW:hover {
+  transform: translate(0, -9px);
+} */
+@-webkit-keyframes move2 {
+  0% {
+    
+    transform: translate(0, 0px);
+  }
+  50%{
+    transform: translate(0, -10px);
+  }
+  
+  100% {
+    
+    transform: translate(0, 0px);
+  }
+}
+@keyframes move2 {
+  0% {
+    
+    transform: translate(0, 0px);
+  }
+  50%{
+    transform: translate(0, -10px);
+  }
+  
+  100% {
+    
+    transform: translate(0, 0px);
+  }
+}
+
+.home-page .untitled-1-mBLNgO {
+  background-color: transparent;
+  height: calc(100.00% - 127px);
+  left: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .untitled-1-aFxivj {
+  background-color: transparent;
+  height: calc(100.00% - 127px);
+  left: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 100%;
+}
+
+.home-page .about-xVxyAW {
+  background-color: transparent;
+  height: 19px;
+  left: 1736px;
+  position: absolute;
+  top: 45px;
+  width: 44px;
+}
+
+.home-page .component-1-1-XCSXxt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .about-JJxPCl {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-page .line-1-XCSXxt {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: 1px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  width: 36px;
+}
+
+.home-page .survey-xVxyAW {
+  background-color: transparent;
+  height: 527px;
+  left: 148px;
+  position: absolute;
+  top: 1758px;
+  width: 3304px;
+}
+
+.home-page .group-17-wx0sfU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1656px;
+}
+
+.home-page .rectangle-26-byKghx {
+  background-color: var(--black-haze);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .group-2-byKghx {
+  background-color: transparent;
+  bottom: 47px;
+  height: 355px;
+  left: 147px;
+  position: absolute;
+  width: 286px;
+  cursor: pointer;
+}
+
+.home-page .group-2-byKghx_Scooter, .group-2-byKghx_less_than_2_day, .group-2-yfzfhG_0_15_orders {
+  background-color: transparent;
+  bottom: 47px;
+  height: 355px;
+  left: 318px;
+  position: absolute;
+  width: 286px;
+  cursor: pointer;
+}
+
+.home-page .rectangle-3-qS3yUf {
+  background-color: var(--white);
+  border-radius: 71px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .enterprise-qS3yUf {
+  background-color: transparent;
+  height: 143px;
+  left: 71px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: calc(30.66% - 44px);
+  width: calc(100.00% - 143px);
+}
+.home-page .enterprise-qS3yUf_foodics, .small-business-kqxaXh_grubtech, .rider-3nkbfh_oracle {
+  background-color: transparent;
+  left: 27px;
+  -o-object-fit: none;
+     object-fit: none;
+  position: absolute;
+  top: calc(30.66% - 25px);
+}
+.home-page .enterprise-qS3yUf_yes {
+  background-color: transparent;
+  height: 143px;
+  left: 23px;
+  -o-object-fit: none;
+     object-fit: none;
+  position: absolute;
+  top: 112px
+}
+.home-page .enterprise-qS3yUf_2_days,.small-business-kqxaXh_4_days, .rider-3nkbfh_7_days {
+  background-color: transparent;
+  left: 6px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: 123px
+}
+.home-page .enterprise-H8xlXo {
+  background-color: transparent;
+  bottom: calc(26.42% - 10px);
+  height: 39px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(49.17% - 82px);
+  text-align: center;
+  width: 166px;
+}
+
+.home-page .fmcg-cgp-qS3yUf {
+  background-color: transparent;
+  bottom: calc(18.11% - 4px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(49.49% - 45px);
+  text-align: center;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.home-page .component-3-2-byKghx, .group-2-byKghx_yes, .group-2-byKghx_yes, .group-2-yfzfhG_yes {
+  background-color: transparent;
+  bottom: 47px;
+  height: 355px;
+  left: calc(36.93% - 106px);
+  position: absolute;
+  width: 286px;
+  cursor: pointer;
+}
+
+.home-page .component-3-2-byKghx_Truck, .component-3-2-byKghx_2_to_4_days, .component-3-4-yfzfhG_10_40_orders{
+  background-color: transparent;
+  bottom: 47px;
+  height: 355px;
+  left: 687px;
+  position: absolute;
+  width: 286px;
+  cursor: pointer;
+}
+
+.home-page .rectangle-3-kqxaXh {
+  background-color: var(--white);
+  border-radius: 71px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .rectangle-27-kqxaXh {
+  background-color: var(--white);
+  border-radius: 71px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .small-business-kqxaXh {
+  background-color: transparent;
+  height: 143px;
+  left: 71px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: calc(30.66% - 44px);
+  width: calc(100.00% - 143px);
+}
+.home-page .small-business-kqxaXh_no {
+  background-color: transparent;
+  height: 143px;
+  left: 25px;
+  -o-object-fit: none;
+     object-fit: none;
+  position: absolute;
+  top: 109px;
+}
+.home-page .small-business-JeVsQX {
+  background-color: transparent;
+  bottom: calc(26.42% - 10px);
+  height: 39px;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 48px);
+}
+
+.home-page .resturant-cafe-small-kqxaXh {
+  background-color: transparent;
+  bottom: 40px;
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(48.72% - 101px);
+  text-align: center;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.home-page .group-4-byKghx, .group-5-byKghx_no, .group-5-yfzfhG_no {
+  background-color: transparent;
+  bottom: 47px;
+  height: 355px;
+  position: absolute;
+  right: calc(36.86% - 105px);
+  width: 286px;
+  cursor: pointer;
+}
+
+.home-page .rectangle-3-3nkbfh {
+  background-color: var(--white);
+  border-radius: 71px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .rider-3nkbfh {
+  background-color: transparent;
+  height: 143px;
+  left: 71px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: calc(30.66% - 44px);
+  width: calc(100.00% - 143px);
+}
+.home-page .rider-3nkbfh_others {
+  background-color: transparent;
+  height: 143px;
+  left: 8px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: calc(30.66% - 10px);
+  width: 100.00%;
+}
+
+.home-page .rider-zcIg44 {
+  background-color: transparent;
+  bottom: calc(26.42% - 10px);
+  height: 39px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(49.50% - 44px);
+  text-align: center;
+}
+.home-page .rider-zcIg44_cost_to_serve {
+  background-color: transparent;
+  bottom: calc(26.42% - 10px);
+  height: 39px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  left: 22px;
+  text-align: center;
+}
+
+.home-page .rider-zcIg44_more_than_a_week {
+  background-color: transparent;
+  bottom: calc(26.42% - 10px);
+  height: 39px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(52.50% - 136px);
+  text-align: center;
+}
+
+.home-page .motor-bike-truck-3nkbfh {
+  background-color: transparent;
+  bottom: calc(18.11% - 4px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(49.35% - 65px);
+  text-align: center;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.home-page .group-5-byKghx {
+  background-color: transparent;
+  bottom: 47px;
+  height: 355px;
+  position: absolute;
+  right: 146px;
+  width: 286px;
+  cursor: pointer;
+}
+
+.home-page .group-5-byKghx_other, .group-5-byKghx_more_than_a_week, .group-4-yfzfhG_40_orders {
+  background-color: transparent;
+  bottom: 47px;
+  height: 355px;
+  position: absolute;
+  right: 318px;
+  width: 286px;
+  cursor: pointer;
+}
+
+.home-page .rectangle-3-HN0QO6 {
+  background-color: var(--white);
+  border-radius: 71px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .consumer-HN0QO6 {
+  background-color: transparent;
+  height: 143px;
+  left: 8px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: calc(30.66% - 44px);
+  width: 100%;
+}
+.home-page .consumer-HN0QO6_others{
+  background-color: transparent;
+  height: 143px;
+  left: 8px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: calc(30.66% - 10px);
+  width: 100%;
+}
+.home-page .consumer-HN0QO6_Otherr{
+  background-color: transparent;
+  height: 143px;
+  left: 8px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: calc(30.66% - 5px);
+  width: 100%;
+}
+.home-page .consumer-MEAD2y {
+  background-color: transparent;
+  bottom: calc(26.42% - 10px);
+  height: 39px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(49.19% - 80px);
+  text-align: center;
+  white-space: nowrap;
+  width: 162px;
+}
+
+.home-page .looking-for-a-better-HN0QO6 {
+  background-color: transparent;
+  bottom: 40px;
+  height: 40px;
+  letter-spacing: 0.00px;
+  position: absolute;
+  right: calc(49.00% - 91px);
+  text-align: center;
+  white-space: nowrap;
+  width: 186px;
+}
+
+.home-page .which-one-are-you-byKghx {
+  background-color: transparent;
+  height: 48px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(49.88% - 191px);
+  text-align: left;
+  top: 32px;
+  white-space: nowrap;
+  width: 383px;
+}
+
+.home-page .group-19-wx0sfU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1656px;}
+   .rectangle-3-osA4Nz :hover{
+
+    
+    background-image: linear-gradient(#12598f,#09288E);
+
+  }
+
+.home-page .rectangle-26-yfzfhG {
+  background-color: var(--black-haze);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .group-2-yfzfhG {
+  background-color: transparent;
+  bottom: 47px;
+  height: 355px;
+  left: 147px;
+  position: absolute;
+  width: 286px;
+  cursor: pointer;
+}
+
+.home-page .rectangle-3-osA4Nz {
+  background-color: var(--white);
+  border-radius: 71px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .enterprise-osA4Nz {
+  background-color: transparent;
+  height: 143px;
+  left: 70px;
+  -o-object-fit: none;
+     object-fit: none;
+  position: absolute;
+  top: 105px;
+  width: calc(100.00% - 143px);
+}
+.home-page .enterprise-osA4Nz_0_15 {
+  background-color: transparent;
+  height: 230px;
+  left: 1px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: 67px;
+  width: 100%;
+}
+
+.home-page .hamdy-osA4Nz {
+  background-color: transparent;
+  bottom: calc(26.42% - 10px);
+  height: 39px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(49.43% - 85px);
+  text-align: center;
+  width: 177px;
+}
+
+.home-page .fmcg-cgp-osA4Nz {
+  background-color: transparent;
+  bottom: calc(18.11% - 4px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(49.49% - 45px);
+  text-align: center;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.home-page .component-3-4-yfzfhG {
+  background-color: transparent;
+  bottom: 47px;
+  height: 355px;
+  left: calc(36.93% - 106px);
+  position: absolute;
+  width: 286px;
+  cursor: pointer;
+}
+
+.home-page .rectangle-3-CjUhcO {
+  background-color: var(--white);
+  border-radius: 71px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .small-business-CjUhcO {
+  background-color: transparent;
+  height: 143px;
+  left: 75px;
+  -o-object-fit: none;
+     object-fit: none;
+  position: absolute;
+  top: 104px;
+  width: calc(100.00% - 143px);
+}
+.home-page .small-business-CjUhcO_10_40 {
+  background-color: transparent;
+  height: 280px;
+  left: -29px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: 38px;
+  width: 346px;
+}
+
+.home-page .zoka-CjUhcO {
+  background-color: transparent;
+  bottom: calc(26.42% - 10px);
+  height: 39px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 206px);
+}
+.home-page .zoka-CjUhcO_dev_4 {
+  background-color: transparent;
+  bottom: calc(26.42% - 10px);
+  height: 39px;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 206px);
+}
+.home-page .resturant-cafe-small-CjUhcO {
+  background-color: transparent;
+  bottom: 40px;
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(48.72% - 101px);
+  text-align: center;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.home-page .group-4-yfzfhG {
+  background-color: transparent;
+  bottom: 47px;
+  height: 355px;
+  position: absolute;
+  right: calc(36.86% - 105px);
+  width: 286px;
+  cursor: pointer;
+}
+
+.home-page .rectangle-3-aFZDgB {
+  background-color: var(--white);
+  border-radius: 71px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .rider-aFZDgB {
+  background-color: transparent;
+  height: 143px;
+  left: 71px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: calc(30.66% - 44px);
+  width: calc(100.00% - 143px);
+}
+
+.home-page .dany-aFZDgB {
+  background-color: transparent;
+  bottom: calc(26.42% - 10px);
+  height: 39px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(49.51% - 41px);
+  text-align: center;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.home-page .motor-bike-truck-aFZDgB {
+  background-color: transparent;
+  bottom: calc(18.11% - 4px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(49.35% - 65px);
+  text-align: center;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.home-page .group-5-yfzfhG {
+  background-color: transparent;
+  bottom: 47px;
+  height: 355px;
+  position: absolute;
+  right: 146px;
+  width: 286px;
+  cursor: pointer;
+}
+
+.home-page .rectangle-3-FgEbKR {
+  background-color: var(--white);
+  border-radius: 71px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .consumer-FgEbKR {
+  background-color: transparent;
+  height: 143px;
+  left: 70px;
+  -o-object-fit: none;
+     object-fit: none;
+  position: absolute;
+  top: 104px;
+  width: calc(100.00% - 133px);
+}
+
+.home-page .sameer-FgEbKR {
+  background-color: transparent;
+  bottom: calc(26.42% - 10px);
+  height: 39px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  width: 285px;
+}
+
+.home-page .looking-for-a-better-FgEbKR {
+  background-color: transparent;
+  bottom: 40px;
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(49.00% - 91px);
+  text-align: center;
+  white-space: nowrap;
+  width: 186px;
+}
+
+.home-page .shito-sito-yfzfhG {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: relative;
+  text-align: center;
+  top: 32px;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.home-page .rectangle-28-wx0sfU {
+  background-color: var(--white);
+  border-radius: 65px;
+  bottom: 46px;
+  height: 356px;
+  left: calc(16.77% - 48px);
+  opacity: 0.05;
+  position: absolute;
+  width: 286px;
+}
+
+.home-page .result-xVxyAW {
+  background-color: transparent;
+  height: 1188px;
+  left: 548px;
+  position: absolute;
+  top: 2270px;
+  /* width: 2051px; */
+}
+
+.home-page .faq-4ysJCk {
+  background-color: transparent;
+  bottom: 0px;
+  height: 509px;
+  left: 230px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: 182px;
+}
+.home-page .faq-4ysJCkQU {
+  background-color: transparent;
+  bottom: 0px;
+  height: 845px;
+  left: -20px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: 182px;
+}
+.home-page .faq-4ysJCk_flock {
+  background-color: transparent;
+  bottom: 0px;
+  height: 509px;
+  left: 150px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: 182px;
+}
+.home-page .faq-4ysJCk_Hive {
+  background-color: transparent;
+  bottom: 0px;
+  height: 509px;
+  left: 211px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: 182px;
+}
+.ipad-home-page .faq-oGTKYK_fleet {
+  background-color: transparent;
+  
+  left: 303px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1083px;
+  width: 145px;
+}
+.home-page .rectangle-32-4ysJCk {
+  background-color: #f8f8f8;
+  border-radius: 71px;
+  height: 355px;
+  left: calc(46.69% - 134px);
+  opacity: 0.1;
+  position: absolute;
+  top: 0px;
+  width: 286px;
+}
+
+.home-page .group-21-4ysJCk {
+  background-color: transparent;
+  bottom: 48px;
+  height: 683px;
+  position: absolute;
+  right: 0px;
+  width: 613px;
+}
+
+.home-page .rectangle-30-k7Lqbs {
+  background-color: var(--black-haze);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .group-20-k7Lqbs {
+  background-color: transparent;
+  height: calc(100.00% - 68px);
+  left: 28px;
+  position: absolute;
+  top: 34px;
+  width: calc(100.00% - 55px);
+}
+
+.home-page .component-5-7-ZacC3R {
+  background-color: transparent;
+  bottom: 0px;
+  height: 86px;
+  left: 108px;
+  position: absolute;
+  width: calc(100.00% - 216px);
+}
+
+.home-page .rectangle-12-9gFP4e {
+  background-color: var(--black-haze);
+  border-radius: 43px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-page .learn-more-9gFP4e {
+  background-color: transparent;
+  bottom: calc(41.49% - 16px);
+  height: 39px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 125px);
+}
+
+.home-page .fleet-ZacC3R {
+  background-color: transparent;
+  height: 389px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  right: calc(49.84% - 122px);
+  top: 0px;
+  width: 245px;
+}
+
+.home-page .is-a-powerful-manage-ZacC3R {
+  background-color: transparent;
+  bottom: calc(23.29% - 14px);
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+/* screen - ipad-home-page */
+
+.ipad-home-page {
+  background-color: var(--black-haze);
+  height: 2753px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 768px;
+}
+
+.ipad-home-page .artboard-2-oGTKYK {
+  background-color: transparent;
+  border-radius: 60px;
+  height: 439px;
+  left: -1px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: -57px;
+  width: 100%;
+}
+
+.ipad-home-page .x1-tb-icon4x-oGTKYK {
+  background-color: transparent;
+  height: 140px;
+  left: 80px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 453px;
+  width: 193px;
+}
+
+.ipad-home-page .untitled-1-oGTKYK {
+  background-color: transparent;
+  height: 288px;
+  left: 395px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 293px;
+}
+
+.ipad-home-page .empowering-communities-oGTKYK {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 142px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .through-digital-transformation-oGTKYK {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 80px;
+  letter-spacing: 2.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 184px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .award-14x-oGTKYK {
+  background-color: transparent;
+  height: 47px;
+  left: 105px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 253px;
+  width: 62px;
+}
+
+.ipad-home-page .award-24x-oGTKYK {
+  background-color: transparent;
+  height: 47px;
+  left: 251px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 253px;
+  width: 62px;
+}
+
+.ipad-home-page .x1st-portfolio-compan-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 312px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .ebrd-star-ventureawa-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 220px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 312px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .x1-tb-logo-oGTKYK {
+  background-color: transparent;
+  height: 40px;
+  left: 80px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 183px;
+}
+
+.ipad-home-page .because-the-competit-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 314px;
+  letter-spacing: 1.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 451px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .our-passion-for-the-oGTKYK {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 314px;
+  letter-spacing: 0.70px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 508px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .let-us-help-you-thro-oGTKYK {
+  background-color: transparent;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 239px;
+  letter-spacing: 1.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 648px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .shito-sito-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 359px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 794px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .which-one-are-you-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 289px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 769px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .which-one-are-you-oGTKYK_points_of_sale {
+  background-color: transparent;
+  height: auto;
+  left: 231px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 769px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .which-one-are-you-oGTKYK_orders {
+  background-color: transparent;
+  height: auto;
+  left: 186px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 769px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .which-one-are-you-oGTKYK_delivery {
+  background-color: transparent;
+  height: auto;
+  left: 240px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 769px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .which-one-are-you-oGTKYK_sell {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 769px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .which-one-are-you-oGTKYK_do_you {
+  background-color: transparent;
+  height: auto;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 769px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .which-one-are-you-oGTKYK_type {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 769px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .which-one-are-you-oGTKYK_SOB {
+  background-color: transparent;
+  height: auto;
+  left: 208px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 769px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .which-one-are-you-oGTKYK_pain_points {
+  background-color: transparent;
+  height: auto;
+  left: 254px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 769px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .group-50-oGTKYK {
+  background-color: transparent;
+  height: 65px;
+  left: 127px;
+  position: absolute;
+  top: 825px;
+  width: 240px;
+}
+
+.ipad-home-page .rectangle-3-l3Hkgu {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-home-page .enterprise-l3Hkgu {
+  background-color: transparent;
+  height: 37px;
+  left: calc(21.67% - 25px);
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: calc(42.86% - 16px);
+  width: 37px;
+}
+
+.ipad-home-page .hamdy-l3Hkgu {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 110px;
+  text-align: center;
+  top: calc(31.11% - 6px);
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .hamdy-l3Hkgu_foodex {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 92px;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .hamdy-l3Hkgu_0_15 {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 76px;
+  text-align: center;
+  top: calc(31.11% - -2px);
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .hamdy-l3Hkgu_yess {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 107px;
+  text-align: center;
+  top: calc(31.11% - -4px);
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .hamdy-l3Hkgu_yyy {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 106px;
+  text-align: center;
+  top: calc(31.11% - -4px);
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .hamdy-l3Hkgu_sco {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 110px;
+  text-align: center;
+  top: calc(31.11% - -2px);
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .hamdy-l3Hkgu_less_than{
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: 50px;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+  width: auto;
+}
+.ipad-home-page .hamdy-l3Hkgu_delivery_distribution {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 88px;
+  text-align: center;
+  top: 8px;
+  width: 100px;
+}
+.ipad-home-page .fmcg-cgp-l3Hkgu {
+  background-color: transparent;
+  bottom: calc(32.35% - 5px);
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  left: 121px;
+  text-align: center;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.ipad-home-page .group-51-oGTKYK {
+  background-color: transparent;
+  height: 65px;
+  left: 401px;
+  position: absolute;
+  top: 821px;
+  width: 240px;
+}
+
+.ipad-home-page .rectangle-3-s161xx {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.ipad-home-page .small-business-s161xx {
+  background-color: transparent;
+  height: 37px;
+  left: calc(21.67% - 25px);
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: calc(42.86% - 16px);
+  width: 37px;
+}
+.ipad-home-page .small-business-s161xx_truck {
+  background-color: transparent;
+  height: 37px;
+  left: calc(21.67% - 25px);
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: calc(42.86% - 11px);
+  width: 37px;
+}
+.ipad-home-page .small-business-s161xx_sm {
+  background-color: transparent;
+  height: 37px;
+  left: calc(21.67% - 25px);
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: calc(42.86% - 10px);
+  width: 37px;
+}
+.ipad-home-page .zoka-s161xx {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 92px;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: 40px;
+}
+.ipad-home-page .zoka-s161xx_grabtech {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 0px;
+  text-align: center;
+  top: 28px;
+  white-space: nowrap;
+  width: 100%;
+}
+.ipad-home-page .zoka-s161xx_10_40 {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 74px;
+  text-align: center;
+  top: 27px;
+  white-space: nowrap;
+  width: 40px;
+}
+.ipad-home-page .zoka-s161xx_noo, .zoka-s161xx_no {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 102px;
+  text-align: center;
+  top: 30px;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.ipad-home-page .zoka-s161xx_truck {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 112px;
+  text-align: center;
+  top: 28px;
+  white-space: nowrap;
+  width: 40px;
+}
+.ipad-home-page .zoka-s161xx_speed {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 81px;
+  text-align: center;
+  top: 27px;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.ipad-home-page .zoka-s161xx_5000_15000 {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 66px;
+  text-align: center;
+  top: 27px;
+  white-space: nowrap;
+  width: 40px;
+}
+.ipad-home-page .small-shop-caferesturant-and-etc-s161xx {
+  background-color: transparent;
+  bottom: calc(20.51% - 5px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  left: 97px;
+  text-align: center;
+  white-space: nowrap;
+  width: 104px;
+}
+
+.ipad-home-page .group-52-oGTKYK {
+  background-color: transparent;
+  height: 65px;
+  left: 127px;
+  position: absolute;
+  top: 911px;
+  width: 240px;
+}
+
+.ipad-home-page .group-52-oGTKYK_other{
+  background-color: transparent;
+  height: 65px;
+  left: 264px;
+  position: absolute;
+  top: 911px;
+  width: 240px;
+}
+
+.ipad-home-page .rectangle-3-GCXcad {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.ipad-home-page .rectangle-3-GCXcad_MTW {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 100%;
+  left: 134px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.ipad-home-page .rectangle-3-GCXcad_40 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 100%;
+  left: 133px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.ipad-home-page .rider-GCXcad {
+  background-color: transparent;
+  height: 37px;
+  left: calc(21.67% - 25px);
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: calc(42.86% - 16px);
+  width: 37px;
+}
+
+.ipad-home-page .dany-GCXcad {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 130px;
+  text-align: center;
+  top: calc(35.56% - 7px);
+  white-space: nowrap;
+  width: 42px;
+}
+.ipad-home-page .hamdy-l3Hkgu_edition {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 59px;
+  text-align: center;
+  top: calc(44.11% - 6px);
+  white-space: nowrap;
+  width: auto;}
+  .ipad-home-page .zoka-s161xx_edition {
+    background-color: transparent;
+    height: 20px;
+    letter-spacing: 0.00px;
+    line-height: 16px;
+    position: absolute;
+    left: 56px;
+    text-align: center;
+    top: 29px;
+    white-space: nowrap;
+    width: 40px;}
+    .ipad-home-page .which-one-are-you-oGTKYK_edition {
+      background-color: transparent;
+      height: auto;
+      left: 164px;
+      letter-spacing: 0.00px;
+      line-height: 20px;
+      position: absolute;
+      text-align: center;
+      top: 769px;
+      white-space: nowrap;
+      width: auto;
+  }
+.ipad-home-page .dany-GCXcad_edition {
+  background-color: transparent;
+    height: 20px;
+    letter-spacing: 0.00px;
+    line-height: 16px;
+    position: absolute;
+    left: 185px;
+    text-align: center;
+    top: calc(45.56% - 7px);
+    white-space: nowrap;
+    width: 42px;
+}
+
+.ipad-home-page .dany-GCXcad_oracle {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 0px;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+  width: 100%;
+}
+.ipad-home-page .dany-GCXcad_40 {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 214px;
+  text-align: center;
+  top: calc(35.56% - 1px);
+  white-space: nowrap;
+  width: 42px;
+}
+.ipad-home-page .dany-GCXcad_cost {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 87px;
+  text-align: center;
+  top: calc(35.56% - 0px);
+  white-space: nowrap;
+  width: 42px;
+}
+.ipad-home-page .dany-GCXcad_15000_25000 {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 61px;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.ipad-home-page .motor-bike-truck-GCXcad {
+  background-color: transparent;
+  bottom: calc(28.43% - 4px);
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  left: 105px;
+  text-align: center;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.ipad-home-page .group-53-oGTKYK {
+  background-color: transparent;
+  height: 65px;
+  left: 401px;
+  position: absolute;
+  top: 914px;
+  width: 240px;
+}
+
+.ipad-home-page .rectangle-3-EmCBW0 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  bottom: 3px;
+  width: 100%;
+}
+
+.ipad-home-page .consumer-EmCBW0 {
+  background-color: transparent;
+  height: 37px;
+  left: calc(20.20% - 25px);
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: calc(42.86% - 16px);
+  width: 37px;
+}
+
+.ipad-home-page .looking-for-a-better-EmCBW0 {
+  background-color: transparent;
+  bottom: 5px;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  left: 88px;
+  text-align: center;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.ipad-home-page .sameer-EmCBW0 {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 111px;
+  text-align: center;
+  top: calc(28.89% - 6px);
+  white-space: nowrap;
+  width: 62px;
+}
+.ipad-home-page .sameer-EmCBW0_otherss {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 0px;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+  width: 100%;
+}
+.ipad-home-page .sameer-EmCBW0_ooo {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 88px;
+  text-align: center;
+  top: calc(28.89% - -5px);
+  white-space: nowrap;
+  width: 62px;
+}
+.ipad-home-page .sameer-EmCBW0_others {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 89px;
+  text-align: center;
+  top: calc(28.89% - -1px);
+  white-space: nowrap;
+  width: 62px;
+}
+.ipad-home-page .sameer-EmCBW0_more_than_25000 {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  left: 52px;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.ipad-home-page .to-fullfill-your-business-needs-you-need-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 184px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 1044px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .faq-oGTKYK {
+  background-color: transparent;
+  height: 340px;
+  left: 208px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1065px;
+  width: 340px;
+}
+
+.ipad-home-page .not-your-average-saa-s-company-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 222px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 1460px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .we-continue-to-recog-oGTKYK {
+  background-color: transparent;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arial_rounded_mt);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1492px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .span0-v0Ej7X {
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-style: normal;
+}
+
+.ipad-home-page .span1-v0Ej7X {
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ipad-home-page .span2-v0Ej7X {
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-style: normal;
+}
+
+.ipad-home-page .x1-trolleymarketplace-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 114px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 1665px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .span0-JEKLQj {
+}
+
+.ipad-home-page .span1-JEKLQj, .span1-zkTzi1, .span1-pA9gi1 {
+  padding-top: 8px;
+}
+
+.ipad-home-page .flockon-demand-deliv-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 332px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 1664px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .span0-zkTzi1 {
+}
+
+.ipad-home-page .span1-zkTzi1 {
+}
+
+.ipad-home-page .x1-trolley-b2-c-oGTKYK {
+  background-color: transparent;
+  height: 67px;
+  left: 136px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1583px;
+  width: 67px;
+}
+
+.ipad-home-page .flock-oGTKYK {
+  background-color: transparent;
+  height: 67px;
+  left: 352px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1584px;
+  width: 67px;
+}
+
+.ipad-home-page .x1-pay-oGTKYK {
+  background-color: transparent;
+  height: 64px;
+  left: 570px;
+  position: absolute;
+  top: 1585px;
+  width: 65px;
+}
+
+.ipad-home-page .x1-pay-lxto9q {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-home-page .x1-payblockchainpayment-gateway-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 557px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 1664px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .span0-pA9gi1 {
+}
+
+.ipad-home-page .span1-pA9gi1 {
+}
+
+.ipad-home-page .some-of-our-clients-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 288px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 1821px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-home-page .clients-oGTKYK {
+  background-color: transparent;
+  height: 185px;
+  left: 132px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1860px;
+  width: 478px;
+}
+
+.ipad-home-page .group-27-oGTKYK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  top: 2081px;
+  width: 768px;
+}
+
+.ipad-home-page .rectangle-42-6pR5zT {
+  background: linear-gradient(154.29deg, #125c8f 8.79%, #06198d 100.97%, #06178d 117.32%);
+  background-color: transparent;
+  border-radius: 0px 0px 60px 60px;
+  height: 672px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(180deg);
+  width: 100%;
+}
+
+.ipad-home-page .lets-make-it-all-happen-6pR5zT {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 25px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(49.81% - 122px);
+  text-align: center;
+  top: 52px;
+  white-space: nowrap;
+  width: 244px;
+}
+
+.ipad-home-page .if-youre-ready-to-se-6pR5zT {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 34px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(49.69% - 222px);
+  text-align: center;
+  top: 88px;
+  white-space: nowrap;
+  width: 446px;
+}
+
+.ipad-home-page .x2022-1-trolley-busin-6pR5zT {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  right: calc(49.71% - 123px);
+  text-align: left;
+  white-space: nowrap;
+  width: 247px;
+  top: 605px;
+}
+
+.ipad-home-page .x1234-6pR5zT {
+  background-color: transparent;
+  height: 21px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  right: calc(49.92% - 63px);
+  width: 127px;
+  top: 570px;
+}
+
+.ipad-home-page .group-26-6pR5zT {
+  background-color: transparent;
+  height: 363px;
+  left: 80px;
+  position: absolute;
+  top: 157px;
+  width: calc(100.00% - 160px);
+}
+
+.ipad-home-page .rectangle-43-n6z353 {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: 13px 12px 7px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-home-page .rectangle-6-n6z353 {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  left: 78px;
+  position: absolute;
+  top: 44px;
+  width: 220px;
+}
+
+.ipad-home-page .rectangle-7-n6z353 {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  position: absolute;
+  right: 76px;
+  top: 44px;
+  width: 221px;
+}
+
+.ipad-home-page .rectangle-8-n6z353 {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  left: 76px;
+  position: absolute;
+  top: calc(33.44% - 12px);
+  width: 222px;
+}
+
+.ipad-home-page .rectangle-44-n6z353 {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  position: absolute;
+  right: 76px;
+  top: calc(33.44% - 12px);
+  width: 222px;
+}
+
+.ipad-home-page .rectangle-10-n6z353 {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  bottom: calc(36.38% - 31px);
+  height: 84px;
+  left: 76px;
+  position: absolute;
+  width: calc(100.00% - 152px);
+}
+
+.ipad-home-page .full-name-n6z353 {
+  background-color: transparent;
+  height: 12px;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.ipad-home-page .companys-name-n6z353 {
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  right: calc(42.01% - 29px);
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: 70px;
+}
+
+.ipad-home-page .email-n6z353 {
+  background-color: transparent;
+  height: 12px;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: calc(27.92% - 3px);
+  white-space: nowrap;
+  width: 24px;
+}
+
+.ipad-home-page .phone-number-n6z353 {
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  right: calc(43.07% - 26px);
+  text-align: center;
+  top: calc(27.92% - 3px);
+  white-space: nowrap;
+  width: 60px;
+}
+
+.ipad-home-page .request-a-customized-solution-optional-n6z353 {
+  background-color: transparent;
+  color: var(--geyser);
+  font-family: var(--font-family-arial_rounded_mt);
+  font-size: 8px;
+  font-weight: 700;
+  height: 12px;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: calc(46.44% - 6px);
+  white-space: nowrap;
+  width: 164px;
+}
+
+.ipad-home-page .span0-O3Echq {
+}
+
+.ipad-home-page .span1-O3Echq {
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-style: normal;
+}
+
+.ipad-home-page .component-5-9-6pR5zT {
+  background-color: transparent;
+  height: 32px;
+  left: calc(50.00% - 67px);
+  position: absolute;
+  top: calc(46.16% - 15px);
+  width: 134px;
+}
+
+.ipad-home-page .rectangle-12-cq04HX {
+  background-color: var(--black-haze);
+  border-radius: 43px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 460px;
+  width: 100%;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  border: none;
+}
+.ipad-home-page .rectangle-12-cq04HX:hover {
+  background: linear-gradient(129.72deg, #125c8f 15.36%, #06198d 91.04%, #06178d 104.46%);
+  color: var(--white);
+
+}
+
+.ipad-home-page .request-contact-cq04HX {
+  background-color: transparent;
+  bottom: calc(35.71% - 6px);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: 18px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 18px);
+}
+
+.ipad-home-page .group-65-oGTKYK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 667px;
+  position: absolute;
+  top: 48px;
+  width: 21px;
+}
+
+.ipad-home-page .line-4-G7nU5v {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.ipad-home-page .line-5-G7nU5v {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.ipad-home-page .line-6-G7nU5v {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: -1px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+/* screen - phone-home-page-all-breakpoints */
+
+.phone-home-page-all-breakpoints {
+  background-color: var(--black-haze);
+  height: 3114px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.phone-home-page-all-breakpoints .artboard-1-vi8f13 {
+  background-color: transparent;
+  border-radius: 0px 0px 60px 60px;
+  height: 731px;
+  left: 0px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  top: -57px;
+  width: 428px;
+  left: 3px;
+}
+
+.phone-home-page-all-breakpoints .x1-tb-logo-vi8f13 {
+  background-color: transparent;
+  height: 30px;
+  left: 37px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 136px;
+}
+
+.phone-home-page-all-breakpoints .empoweringcommunities-vi8f13 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 227px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .through-digital-transformation-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 1.60px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 311px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .award-14x-vi8f13 {
+  background-color: transparent;
+  height: 48px;
+  left: 101px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 389px;
+  width: 63px;
+}
+
+.phone-home-page-all-breakpoints .award-24x-vi8f13 {
+  background-color: transparent;
+  height: 48px;
+  left: 263px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 389px;
+  width: 63px;
+}
+
+.phone-home-page-all-breakpoints .ebrd-star-ventureawa-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 444px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .x1st-portfolio-compan-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 444px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .because-the-competit-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 68px;
+  letter-spacing: 0.80px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 696px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .our-passion-for-the-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.55px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 750px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .let-us-help-you-thro-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.80px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 857px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .shito-sito-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 189px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 966px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .which-one-are-you-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 935px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .which-one-are-you-vi8f13_dist {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 935px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .which-one-are-you-vi8f13_POS {
+  background-color: transparent;
+  height: auto;
+  left: 91px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 935px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .which-one-are-you-vi8f13_dels {
+  background-color: transparent;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 935px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .which-one-are-you-vi8f13_channels {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 935px;
+  white-space: normal;
+  width: 100%;
+}
+.phone-home-page-all-breakpoints .which-one-are-you-vi8f13_digital {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 935px;
+  white-space: normal;
+  width: 100%;
+}
+.phone-home-page-all-breakpoints .which-one-are-you-vi8f13_Vehicle {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 935px;
+  white-space: normal;
+  width: 100%;
+}
+.phone-home-page-all-breakpoints .which-one-are-you-vi8f13_PP {
+  background-color: transparent;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 935px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .which-one-are-you-vi8f13_SOB_2 {
+  background-color: transparent;
+  height: auto;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 935px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .which-one-are-you-vi8f13_SOB {
+  background-color: transparent;
+  height: auto;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 935px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .not-your-average-saa-s-company-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1624px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .group-25-vi8f13 {
+  background-color: transparent;
+  height: 18px;
+  left: 54px;
+  position: absolute;
+  top: 1324px;
+  width: 322px;
+}
+
+.phone-home-page-all-breakpoints .to-fullfill-your-business-needs-you-need-3iEWaw {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.phone-home-page-all-breakpoints .faq-vi8f13 {
+  background-color: transparent;
+  height: 200px;
+  left: 114px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1370px;
+}
+.phone-home-page-all-breakpoints .faq-vi8f13_flock {
+  background-color: transparent;
+    
+    left: 146px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    position: absolute;
+    top: 1370px;
+    width: 31%;
+}
+.phone-home-page-all-breakpoints .faq-vi8f13_fleet {
+  background-color: transparent;
+  left: 160px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1357px;
+  width: 22%;
+}
+.phone-home-page-all-breakpoints .faq-vi8f13_Hive {
+  background-color: transparent;
+  left: 156px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1361px;
+  width: 25%;
+}
+
+.phone-home-page-all-breakpoints .rectangle-3-vi8f13 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 65px;
+  left: 94px;
+  position: absolute;
+  top: 987px;
+  width: 240px;
+}
+
+.phone-home-page-all-breakpoints .rectangle-3-SkZs5w {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 65px;
+  left: 94px;
+  position: absolute;
+  top: 1058px;
+  width: 240px;
+}
+
+.phone-home-page-all-breakpoints .rectangle-3-IdoTGO {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 65px;
+  left: 94px;
+  position: absolute;
+  top: 1129px;
+  width: 240px;
+}
+
+.phone-home-page-all-breakpoints .rectangle-3-XOOgcp {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 65px;
+  left: 94px;
+  position: absolute;
+  top: 1200px;
+  width: 240px;
+}
+
+.phone-home-page-all-breakpoints .enterprise-vi8f13 {
+  background-color: transparent;
+  height: 37px;
+  left: 138px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 999px;
+  width: 37px;
+}
+
+.phone-home-page-all-breakpoints .hamdy-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 229px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1001px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .hamdy-vi8f13_LT55 {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1011px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .hamdy-vi8f13_foodics {
+  background-color: transparent;
+  height: auto;
+  left: 186px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1011px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .hamdy-vi8f13_0_15ord {
+  background-color: transparent;
+  height: auto;
+  left: 170px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1011px;
+  white-space: normal;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .hamdy-vi8f13_yes {
+  background-color: transparent;
+  height: auto;
+  left: 200px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1011px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .hamdy-vi8f13_scoo {
+  background-color: transparent;
+  height: auto;
+  left: 217px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1010px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .hamdy-vi8f13_del {
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 996px;
+  white-space: normal;
+  width: 100px;
+}
+.phone-home-page-all-breakpoints .hamdy-vi8f13_LT5 {
+  background-color: transparent;
+  height: auto;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1011px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .hamdy-vi8f13_1 {
+  background-color: transparent;
+  height: auto;
+  left: 216px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1001px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .fmcg-cgp-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 226px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 1022px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .small-business-vi8f13 {
+  background-color: transparent;
+  height: 37px;
+  left: 138px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1070px;
+  width: 37px;
+}
+
+.phone-home-page-all-breakpoints .zoka-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 237px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1068px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .zoka-vi8f13_2_4 {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1082px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .zoka-vi8f13_Grabtech {
+  background-color: transparent;
+  height: auto;
+  left: 178px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1081px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .zoka-vi8f13_10 , .zoka-vi8f13_5_14 {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1082px;
+  white-space: normal;
+  width: auto;
+}
+#is_a_powerful_management_repor{
+  left: -85px;
+    top: 739px;
+    position: absolute;
+    overflow: visible;
+    white-space: nowrap;
+    text-align: center;
+    font-family: var(--font-family-arialrounded_mt-regular);
+    font-style: normal;
+    font-weight: 400;
+    font-size: var(--font-size-xxxl);
+    color: var(--dove-gray);
+}
+#is_a_powerful_management_repor_tab{
+  left: 146px;
+  top: 1328px;
+    position: absolute;
+    overflow: visible;
+    white-space: nowrap;
+    text-align: center;
+    color: var(--dove-gray);
+    font-family: var(--font-family-arialrounded_mt-regular);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 400;
+    
+}
+#is_a_powerful_management_repor_mob{
+  left: 13px;
+  top: 1523px;
+  position: absolute;
+  /* overflow: visible; */
+  white-space: nowrap;
+  text-align: center;
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+#is_a_powerful_management_repor_mob_sp2{
+  left: 38px;
+  top: 1523px;
+  position: absolute;
+  /* overflow: visible; */
+  white-space: nowrap;
+  text-align: center;
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+#is_a_powerful_management_repor_mob_sp{
+  left: 13px;
+  top: 1515px;
+  position: absolute;
+  /* overflow: visible; */
+  white-space: nowrap;
+  text-align: center;
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.phone-home-page-all-breakpoints .zoka-vi8f13_no {
+  background-color: transparent;
+  height: auto;
+  left: 202px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1081px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .zoka-vi8f13_truck {
+  background-color: transparent;
+  height: auto;
+  left: 226px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1081px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .zoka-vi8f13_Speed{
+  background-color: transparent;
+  height: auto;
+  left: 193px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 1074px;
+  white-space: normal;
+  width: 100px;
+}
+
+.phone-home-page-all-breakpoints .zoka-vi8f13_mob1 {
+  background-color: transparent;
+  height: auto;
+  left: 198px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1068px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .small-shop-caferesturant-and-etc-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 205px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 1089px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .rider-vi8f13 {
+  background-color: transparent;
+  height: 37px;
+  left: 138px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1141px;
+  width: 37px;
+}
+
+.phone-home-page-all-breakpoints .dany-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 235px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1145px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .dany-vi8f13_M_T_W {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1154px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .dany-vi8f13_oracle {
+  background-color: transparent;
+  height: auto;
+  left: 188px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1152px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .dany-vi8f13_40 {
+  background-color: transparent;
+  height: auto;
+  left: 172px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1153px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .dany-vi8f13_oth {
+  background-color: transparent;
+  height: auto;
+  left: 192px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1154px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .dany-vi8f13_cost {
+  background-color: transparent;
+  height: auto;
+  left: 192px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: justify;
+  top: 1153px;
+  white-space: normal;
+  width: 100%;
+}
+.phone-home-page-all-breakpoints .dany-vi8f13_15_25 {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1153px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .motor-bike-truck-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 212px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 1166px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .consumer-vi8f13 {
+  background-color: transparent;
+  height: 37px;
+  left: 135px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1212px;
+  width: 37px;
+}
+
+.phone-home-page-all-breakpoints .looking-for-a-better-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 193px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 1234px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .sameer-vi8f13_othh {
+  background-color: transparent;
+  height: auto;
+  left: 187px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1223px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .sameer-vi8f13_other {
+  background-color: transparent;
+  height: auto;
+  left: 188px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1224px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .sameer-vi8f13_M_25 {
+  background-color: transparent;
+  height: auto;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1223px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .sameer-vi8f13_consumer {
+  background-color: transparent;
+  height: auto;
+  left: 217px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1213px;
+  white-space: nowrap;
+  width: auto;
+}
+.phone-home-page-all-breakpoints .we-continue-to-recog-vi8f13 {
+  background-color: transparent;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arial_rounded_mt);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 1654px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .span0-u7ZecN {
+}
+
+.phone-home-page-all-breakpoints .span1-u7ZecN {
+}
+
+.phone-home-page-all-breakpoints .span2-u7ZecN {
+}
+
+.phone-home-page-all-breakpoints .group-45-vi8f13 {
+  background-color: transparent;
+  height: 119px;
+  left: 127px;
+  position: absolute;
+  top: 1738px;
+  width: 176px;
+}
+
+.phone-home-page-all-breakpoints .x1-trolley-b2-c-05573i {
+  background-color: transparent;
+  height: 67px;
+  left: calc(49.57% - 33px);
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 67px;
+}
+
+.phone-home-page-all-breakpoints .x1-trolleymarketplace-05573i {
+  background-color: transparent;
+  bottom: -6px;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.phone-home-page-all-breakpoints .span0-ZedAlK {
+}
+
+.phone-home-page-all-breakpoints .span1-ZedAlK {
+  padding-top: 6px;
+}
+
+.phone-home-page-all-breakpoints .group-44-vi8f13 {
+  background-color: transparent;
+  height: 119px;
+  left: 115px;
+  position: absolute;
+  top: 1903px;
+  width: 200px;
+}
+
+.phone-home-page-all-breakpoints .flock-bR0O2S {
+  background-color: transparent;
+  height: 67px;
+  left: calc(49.70% - 33px);
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 67px;
+}
+
+.phone-home-page-all-breakpoints .flockon-demand-deliv-bR0O2S {
+  background-color: transparent;
+  bottom: -6px;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.phone-home-page-all-breakpoints .span0-rOfauS {
+}
+
+.phone-home-page-all-breakpoints .span1-rOfauS {
+  padding-top: 6px;
+}
+
+.phone-home-page-all-breakpoints .group-43-vi8f13 {
+  background-color: transparent;
+  height: 116px;
+  left: 150px;
+  position: absolute;
+  top: 2068px;
+  width: 130px;
+}
+
+.phone-home-page-all-breakpoints .x1-pay-tWcJI2 {
+  background-color: transparent;
+  height: 64px;
+  left: calc(47.62% - 31px);
+  position: absolute;
+  top: 0px;
+  width: 65px;
+}
+
+.phone-home-page-all-breakpoints .x1-pay-9lso5q {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.phone-home-page-all-breakpoints .x1-payblockchain-paymentgateway-tWcJI2 {
+  background-color: transparent;
+  bottom: -6px;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.phone-home-page-all-breakpoints .span0-CkxUG2 {
+}
+
+.phone-home-page-all-breakpoints .span1-CkxUG2 {
+  padding-top: 6px;
+}
+
+.phone-home-page-all-breakpoints .some-of-our-clients-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 2272px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .clients-vi8f13 {
+  background-color: transparent;
+  height: 137px;
+  left: 37px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 2303px;
+  width: 354px;
+}
+
+.phone-home-page-all-breakpoints .rectangle-42-vi8f13 {
+  background: linear-gradient(164.98deg, #125c8f 6.23%, #06198d 104.86%, #06178d 122.35%);
+  background-color: transparent;
+  border-radius: 0px 0px 60px 60px;
+  height: 672px;
+  left: 0px;
+  position: absolute;
+  top: 2461px;
+  transform: rotate(180deg);
+  width: 428px;
+  left: 3px;
+}
+
+.phone-home-page-all-breakpoints .lets-make-it-all-happen-vi8f13 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 2504px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .if-youre-ready-to-se-vi8f13 {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 2529px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .x2022-1-trolley-busin-vi8f13 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 3060px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-home-page-all-breakpoints .x1234-vi8f13 {
+  background-color: transparent;
+  height: 17px;
+  left: 167px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 3027px;
+  width: 95px;
+}
+
+.phone-home-page-all-breakpoints .group-54-vi8f13 {
+  background-color: transparent;
+  height: 404px;
+  left: 37px;
+  position: absolute;
+  top: 2600px;
+  width: 354px;
+}
+
+.phone-home-page-all-breakpoints .path-1-dF4QBh {
+  background-color: transparent;
+  height: calc(100.00% + 22px);
+  left: 0px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 24px);
+}
+
+.phone-home-page-all-breakpoints .rectangle-6-dF4QBh {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  left: 44px;
+  position: absolute;
+  top: 44px;
+  width: 129px;
+}
+
+.phone-home-page-all-breakpoints .rectangle-7-dF4QBh {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  position: absolute;
+  right: 40px;
+  top: 44px;
+  width: 133px;
+}
+
+.phone-home-page-all-breakpoints .rectangle-8-dF4QBh {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  left: 43px;
+  position: absolute;
+  top: calc(29.70% - 11px);
+  width: calc(100.00% - 83px);
+}
+
+.phone-home-page-all-breakpoints .rectangle-44-dF4QBh {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  left: 43px;
+  position: absolute;
+  top: calc(47.28% - 17px);
+  width: calc(100.00% - 83px);
+}
+
+.phone-home-page-all-breakpoints .rectangle-10-dF4QBh {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  bottom: calc(24.53% - 21px);
+  height: 84px;
+  left: 43px;
+  position: absolute;
+  width: calc(100.00% - 84px);
+}
+
+.phone-home-page-all-breakpoints .full-name-dF4QBh {
+  background-color: transparent;
+  height: 12px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.phone-home-page-all-breakpoints .companys-name-dF4QBh {
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  right: calc(35.92% - 25px);
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: 70px;
+}
+
+.phone-home-page-all-breakpoints .email-dF4QBh {
+  background-color: transparent;
+  height: 12px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: calc(25.00% - 3px);
+  white-space: nowrap;
+  width: 24px;
+}
+
+.phone-home-page-all-breakpoints .phone-number-dF4QBh {
+  background-color: transparent;
+  height: 12px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: calc(41.45% - 5px);
+  white-space: nowrap;
+  width: 60px;
+}
+
+.phone-home-page-all-breakpoints .request-a-customized-solution-optional-dF4QBh {
+  background-color: transparent;
+  bottom: calc(42.09% - 5px);
+  color: var(--geyser);
+  font-family: var(--font-family-arial_rounded_mt);
+  font-size: 8px;
+  font-weight: 700;
+  height: 12px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 164px;
+}
+
+.phone-home-page-all-breakpoints .span0-gtWbQr {
+}
+
+.phone-home-page-all-breakpoints .span1-gtWbQr {
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-style: normal;
+}
+
+.phone-home-page-all-breakpoints .component-5-10-dF4QBh {
+  background-color: transparent;
+  bottom: 30px;
+  height: 30px;
+  left: calc(50.00% - 64px);
+  position: absolute;
+  width: 128px;
+}
+
+.phone-home-page-all-breakpoints .rectangle-12-sSziAt {
+  background-color: var(--black-haze);
+  border-radius: 43px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: bold;
+  border: none;
+}
+.phone-home-page-all-breakpoints .rectangle-12-sSziAt:hover {
+  background: linear-gradient(129.72deg, #125c8f 15.36%, #06198d 91.04%, #06178d 104.46%);
+  color: var(--white);
+
+}
+
+.phone-home-page-all-breakpoints .request-contact-sSziAt {
+  background-color: transparent;
+  bottom: calc(40.63% - 6px);
+  height: 14px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 36px);
+}
+
+.phone-home-page-all-breakpoints .group-42-vi8f13 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 370px;
+  position: absolute;
+  top: 48px;
+  width: 21px;
+}
+
+.phone-home-page-all-breakpoints .line-4-X7ohex {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.phone-home-page-all-breakpoints .line-5-X7ohex {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.phone-home-page-all-breakpoints .line-6-X7ohex {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: -1px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+.rectangle-12-EoA0TL{
+  background: linear-gradient(37.41deg, #06188d 8.56%, #125b8f 87.72%);
+  background-color: transparent;
+  border-radius: 62px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 109px;
+  left: 178px;
+  position: absolute;
+  top: 885px;
+  width: 417px;
+  font-size: 32px;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+.rectangle-12-EoA0TL_tab {
+  background: linear-gradient(37.41deg, #06188d 8.56%, #125b8f 87.72%);
+  background-color: transparent;
+  border-radius: 43px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 1.5%;
+  left: 299px;
+  position: absolute;
+  top: 1389px;
+  width: 19%;
+  font-size: 14px;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+.rectangle-12-EoA0TL_mob {
+  background: linear-gradient(37.41deg, #06188d 8.56%, #125b8f 87.72%);
+  background-color: transparent;
+  border-radius: 43px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 1.1%;
+  left: 153px;
+  position: absolute;
+  top: 1563px;
+  font-family: var(--font-family-arialrounded_mt-bold);
+  width: 25%;
+  font-size: var(--font-size-m);
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+.rectangle-12-EoA0TL_mob:hover {
+  background:#ffffff ;
+  color: var(--resolution-blue-2)
+
+}
+.rectangle-12-EoA0TL_tab:hover {
+  background:#ffffff ;
+  color: var(--resolution-blue-2)
+
+}
+.rectangle-12-EoA0TL:hover {
+  background:#ffffff ;
+  color: var(--venice-blue)
+}
+.ipad-home-page .faq-oGTKYK_flock {
+  background-color: transparent;
+  left: 276px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1099px;
+  width: 199px;
+}
+
+.ipad-home-page .faq-oGTKYK_Hive {
+  background-color: transparent;
+  left: 298px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  top: 1099px;
+  width: 156px;
+}
+a {
+  text-decoration: none;
+  color: #1E1E23;
+  opacity:1;
+  font-family: 'work sans', sans serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  transition: 200ms;
+}
+a:hover {
+  opacity:0.5;
+}
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+
+
+.container {
+  margin-top: 50px; 
+  Display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.phone {
+  background-color: #36383F;
+  border-radius: 40px;
+  width: 300px;
+  height: 600px;
+  Display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 30px 50px 100px #85888C;
+}
+.content {
+  border: 1px solid #36383F;
+  border-radius: 20px;
+  width: 94%;
+  height: 91%;
+  background-color: #F5F6FA;
+  overflow: hidden;
+}
+nav {
+  background-color: #1E1E23;
+  height: 65px;
+}
+
+
+#menuToggle {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: 25px;
+  left: 25px;
+  z-index: 1;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+   -ms-user-select: none;
+       user-select: none;
+}
+
+#menuToggle input
+{
+  display: flex;
+  width: 40px;
+  height: 32px;
+  position: absolute;
+  cursor: pointer;
+  opacity: 0;
+  z-index: 2;
+}
+
+#menuToggle span
+{
+  display: flex;
+  width: 29px;
+  height: 2px;
+  margin-bottom: 5px;
+  position: relative;
+  background: #ffffff;
+  border-radius: 3px;
+  z-index: 1;
+  transform-origin: 5px 0px;
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+
+#menuToggle span:first-child
+{
+  transform-origin: 0% 0%;
+}
+
+#menuToggle span:nth-last-child(2)
+{
+  transform-origin: 0% 100%;
+}
+
+#menuToggle input:checked ~ span
+{
+  opacity: 1;
+  transform: rotate(45deg) translate(-3px, -1px);
+  background: #36383F;
+}
+#menuToggle input:checked ~ span:nth-last-child(3)
+{
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+#menuToggle input:checked ~ span:nth-last-child(2)
+{
+  transform: rotate(-45deg) translate(0, -1px);
+}
+
+#menu
+{
+  position: absolute;
+  width: 180px;
+  height: 400px;
+  box-shadow: 0 0 10px #85888C;
+  margin: -50px 0 0 -50px;
+  padding: 50px;
+  padding-top: 125px;
+  background-color: #F5F6FA;
+  -webkit-font-smoothing: antialiased;
+  transform-origin: 0% 0%;
+  transform: translate(-100%, 0);
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+}
+
+#menu li
+{
+  padding: 10px 0;
+  transition-delay: 2s;
+}
+
+#menuToggle input:checked ~ ul
+{
+  transform: none;
+}
+
+@media screen and (max-width: 767px) {
+  .screen.home-page { 
+    display: none;
+   }
+  .screen.ipad-home-page { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1137px) {
+  .screen.home-page { 
+    display: none;
+   }
+  .screen.phone-home-page-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1138px)  {
+  .screen.ipad-home-page {
+    display: none;
+   }
+  .screen.phone-home-page-all-breakpoints { 
+    display: none;
+   }
+}

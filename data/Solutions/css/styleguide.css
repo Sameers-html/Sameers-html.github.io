@@ -1,0 +1,136 @@
+:root { 
+  --black-haze: #f7f7f7;
+  --dove-gray: #6c6c6c;
+  --geyser: #d4dcee;
+  --resolution-blue: #051781;
+  --resolution-blue-2: #06188d;
+  --venice-blue: #125c8f;
+  --white: #ffffff;
+ 
+  --font-size-l: 14px;
+  --font-size-m: 11px;
+  --font-size-s: 8px;
+  --font-size-xl: 16px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 28px;
+  --font-size-xxxxl: 32px;
+  --font-size-xxxxxl: 40px;
+ 
+  --font-family-arial_rounded_mt: "Arial Rounded MT", Helvetica;
+  --font-family-arialrounded_mt-bold: "ArialRounded MT-Bold", Helvetica;
+  --font-family-arialrounded_mt-regular: "ArialRounded MT-Regular", Helvetica;
+}
+.arialroundedmt-bold-venice-blue-8px {
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arialroundedmt-regular-normal-dove-gray-28px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arialroundedmt-regular-normal-dove-gray-14px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arialroundedmt-regular-normal-white-11px {
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arialroundedmt-regular-normal-dove-gray-11px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arialroundedmt-bold-venice-blue-16px {
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arialroundedmt-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arialroundedmt-bold-venice-blue-20px {
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arialroundedmt-bold-white-11px {
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arialroundedmt-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arialroundedmt-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arialroundedmt-bold-venice-blue-40px {
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arialroundedmt-bold-dove-gray-28px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arialroundedmt-regular-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+:root {
+}

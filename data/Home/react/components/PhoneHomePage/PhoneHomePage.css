@@ -1,0 +1,10 @@
+.phone-home-page-all-breakpoints {
+  align-items: center;
+  background-color: var(--black-haze);
+  display: flex;
+  flex-direction: column;
+  height: 3114px;
+  overflow: hidden;
+  width: 428px;
+}
+

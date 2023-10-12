@@ -1,0 +1,145 @@
+/* screen - artboard-7 */
+
+.artboard-7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 96px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 136px;
+}
+
+#overlay-artboard-7 {
+  background-color: transparent;
+}
+
+.overlay .artboard-7 {
+  background-color: #00000000;
+}
+
+#overlay-artboard-7 .artboard-7 {
+  left: 562.0px;
+  top: 38.0px;
+}
+
+#overlay-artboard-7 .container-center-horizontal {
+  justify-content: normal;
+}
+
+.artboard-7 .group-64-NsAag6 {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 136px;
+}
+
+.artboard-7 .group-63-BhT20Z {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.artboard-7 .rectangle-56-uweyxh {
+  background-color: #37ade3;
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.9;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.artboard-7 .group-62-uweyxh {
+  background-color: transparent;
+  height: 10px;
+  position: absolute;
+  right: 17px;
+  top: 10px;
+  width: 10px;
+}
+
+.artboard-7 .line-4-A0xL4x {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 3px);
+}
+
+.artboard-7 .line-6-A0xL4x {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 3px);
+}
+
+.artboard-7 .home-uweyxh {
+  background-color: transparent;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(49.04% - 16px);
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.artboard-7 .solutions-uweyxh {
+  background-color: transparent;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(48.86% - 23px);
+  text-align: center;
+  top: calc(41.46% - 6px);
+  white-space: nowrap;
+  width: 48px;
+}
+
+.artboard-7 .about-uweyxh {
+  background-color: transparent;
+  bottom: 17px;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(49.04% - 16px);
+  text-align: center;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.artboard-7 .line-4-uweyxh {
+  background-color: transparent;
+  height: 1px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 34.74%;
+  width: calc(100.00% - 51px);
+}
+
+.artboard-7 .line-7-BhT20Z {
+  background-color: transparent;
+  bottom: 33.68%;
+  height: 1px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 51px);
+}

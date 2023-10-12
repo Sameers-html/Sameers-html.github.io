@@ -1,0 +1,32 @@
+.artboard-1,
+.artboard-2 {
+  align-items: flex-start;
+  display: flex;
+  width: 136px;
+}
+
+.overlay .artboard-1,
+.overlay .artboard-2 {
+  background-color: #00000000;
+}
+
+#overlay-artboard-2 .artboard-2 {
+  left: 265.0px;
+  top: 40.0px;
+}
+
+#overlay-artboard-1 .artboard-1 {
+  left: 560.0px;
+  top: 40.0px;
+}
+
+#overlay-artboard-1,
+#overlay-artboard-2 {
+  background-color: transparent;
+}
+
+#overlay-artboard-1 .container-center-horizontal,
+#overlay-artboard-2 .container-center-horizontal {
+  justify-content: normal;
+}
+

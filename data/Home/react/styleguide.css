@@ -1,0 +1,21 @@
+:root { 
+  --black-haze: #f7f7f7;
+  --dove-gray: #6c6c6c;
+  --geyser: #d4dcee;
+  --navy-blue: #05157f;
+  --supernova: #fdc500e6;
+  --venice-blue: #125c8f;
+  --white: #ffffff;
+ 
+  --font-size-l: 14px;
+  --font-size-m: 11px;
+  --font-size-xl: 16px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 28px;
+  --font-size-xxxxl: 32px;
+  --font-size-xxxxxl: 40px;
+ 
+  --font-family-arial_rounded_mt: "Arial Rounded MT", Helvetica;
+  --font-family-arialrounded_mt-bold: "ArialRounded MT-Bold", Helvetica;
+  --font-family-arialrounded_mt-regular: "ArialRounded MT-Regular", Helvetica;
+}

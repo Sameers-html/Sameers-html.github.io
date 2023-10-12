@@ -1,0 +1,11 @@
+.ipad-home-page {
+  align-items: center;
+  background-color: var(--black-haze);
+  display: flex;
+  flex-direction: column;
+  height: 2753px;
+  overflow: hidden;
+  position: relative;
+  width: 768px;
+}
+

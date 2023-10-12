@@ -1,0 +1,10 @@
+.home-page {
+  align-items: center;
+  background-color: var(--black-haze);
+  display: flex;
+  flex-direction: column;
+  height: 5400px;
+  overflow: hidden;
+  width: 1920px;
+}
+

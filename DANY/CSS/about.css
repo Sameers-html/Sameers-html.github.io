@@ -1,0 +1,2746 @@
+/* screen - about */
+
+.about {
+  background-color: var(--black-haze);
+  height: 4207px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.about .header-vRTBB9 {
+  background-color: transparent;
+  height: 996px;
+  left: -1px;
+  position: absolute;
+  top: -2px;
+  width: 100%;
+}
+
+.about .rectangle-16-7Uxjw5 {
+  background: linear-gradient(66.08deg, #125c8f 19.53%, #06198d 79.04%, #06178d 89.59%);
+  background-color: transparent;
+  border-radius: 0px 0px 150px 150px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 3px);
+}
+
+.about .x20220620_152021_gb_company_shoot-7Uxjw5 {
+  background-color: transparent;
+  border-radius: 0px 0px 150px 150px;
+  height: calc(100.00% - 2px);
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 3px);
+}
+
+.about .about-vRTBB9 {
+  background-color: transparent;
+  height: auto;
+  left: 1736px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about .solutions-vRTBB9 {
+  background-color: transparent;
+  height: 19px;
+  left: 1615px;
+  position: absolute;
+  top: 46px;
+  width: 68px;
+}
+
+.about .component-1-1-xJQy5k {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.about .solutions-BYPUTx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.about .line-1-xJQy5k {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 57px;
+}
+
+.about .home-vRTBB9 {
+  background-color: transparent;
+  height: 19px;
+  left: 1519px;
+  position: absolute;
+  top: 46px;
+  width: 43px;
+}
+
+.about .component-1-1-ZDupf9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.about .home-JbJK2k {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.about .line-1-ZDupf9 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 34px;
+}
+
+.about .text-1-vRTBB9 {
+  background-color: transparent;
+  height: 419px;
+  left: 132px;
+  position: absolute;
+  top: 1092px;
+  width: 1075px;
+}
+
+.about .x1-trolley-is-an-inte-uZlbpU {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 354px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 6px);
+}
+
+.about .who-we-are-uZlbpU {
+  background-color: transparent;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 80px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+  width: 252px;
+}
+
+.about .header-text-vRTBB9 {
+  background-color: transparent;
+  height: 298px;
+  left: 459px;
+  position: absolute;
+  top: 348px;
+  width: 1004px;
+}
+
+.about .we-empower-impactful-1HraZE {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 90px;
+  font-style: normal;
+  font-weight: 700;
+  height: 206px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 2px;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.about .we-help-businesses-a-1HraZE {
+  background-color: transparent;
+  bottom: 4px;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 79px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 1px);
+}
+
+.about .awards-vRTBB9 {
+  background-color: transparent;
+  height: 213px;
+  left: -637px;
+  position: absolute;
+  top: 1561px;
+  width: 1435px;
+}
+
+.about .x20220620_121024_gb_company_shoot-vgyPYT {
+  background: linear-gradient(180deg, #125c8f 15.18%, #06178d 142.57%);
+  background-color: transparent;
+  border-radius: 106px;
+  height: calc(100.00% + 1222px);
+  left: 611px;
+  position: absolute;
+  top: -611px;
+  transform: rotate(90deg);
+  width: calc(100.00% - 1222px);
+}
+
+.about .group-11-vgyPYT {
+  background-color: transparent;
+  height: 142px;
+  position: absolute;
+  right: 104px;
+  top: calc(49.92% - 71px);
+  width: 554px;
+}
+
+.about .award-14x-OfSrHW {
+  background-color: transparent;
+  height: 85px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.about .award-24x-OfSrHW {
+  background-color: transparent;
+  height: 85px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(19.07% - 22px);
+  top: 0px;
+  width: 113px;
+}
+
+.about .x1st-portfolio-compan-OfSrHW {
+  background-color: transparent;
+  bottom: -5px;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 237px;
+}
+
+.about .ebrd-star-venture-aw-OfSrHW {
+  background-color: transparent;
+  bottom: -5px;
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 284px;
+}
+
+.about .pics-vRTBB9 {
+  background-color: transparent;
+  height: 815px;
+  left: 1099px;
+  position: absolute;
+  top: 789px;
+  width: 772px;
+}
+
+.about .group-10-VwhKmx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.about .x20220620_121024_gb_company_shoot-jxNxCR {
+  background-color: transparent;
+  border-radius: 83px;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 166px;
+}
+
+.about .x20220620_120945_gb_company_shoot-jxNxCR {
+  background-color: transparent;
+  border-radius: 83px;
+  height: calc(100.00% - 170px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.90% - 83px);
+  top: 85px;
+  width: 166px;
+}
+
+.about .x20220620_143551_gb_company_shoot-jxNxCR {
+  background-color: transparent;
+  border-radius: 83px;
+  height: 327px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 164px);
+  width: 166px;
+}
+
+.about .group-9-VwhKmx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.about .x20220620_121024_gb_company_shoot-xhHEMN {
+  background-color: var(--resolution-blue);
+  border-radius: 83px;
+  height: 100%;
+  opacity: 0.3;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 166px;
+}
+
+.about .x20220620_120945_gb_company_shoot-xhHEMN {
+  background-color: var(--resolution-blue);
+  border-radius: 83px;
+  height: calc(100.00% - 170px);
+  opacity: 0.3;
+  position: absolute;
+  right: calc(49.90% - 83px);
+  top: 85px;
+  width: 166px;
+}
+
+.about .x20220620_120028_gb_company_shoot-xhHEMN {
+  background-color: var(--resolution-blue);
+  border-radius: 83px;
+  height: 327px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: calc(50.00% - 164px);
+  width: 166px;
+}
+
+.about .walid-rashwan-ceo-founder-VwhKmx {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  right: -116px;
+  text-align: center;
+  top: calc(49.69% - 10px);
+  transform: rotate(90deg);
+  white-space: nowrap;
+  width: 254px;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.about .wael-dowidar-cro-VwhKmx {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  right: calc(47.70% - 131px);
+
+  text-align: center;
+  top: calc(49.69% - 10px);
+  transform: rotate(90deg);
+  white-space: nowrap;
+  width: 154px;
+}
+
+.about .ahmed-ali-tech-lead-VwhKmx {
+  background-color: transparent;
+  height: 21px;
+  left: calc(11.54% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: calc(49.69% - 10px);
+  transform: rotate(90deg);
+  white-space: nowrap;
+  width: 170px;
+}
+
+.about .footer-vRTBB9 {
+  background-color: transparent;
+  height: 996px;
+  left: 0px;
+  position: absolute;
+  top: 3212px;
+  width: 100%;
+}
+
+.about .rectangle-17-1ETIZM {
+  background: linear-gradient(129.72deg, #125c8f 15.36%, #06198d 91.04%, #06178d 104.46%);
+  background-color: transparent;
+  border-radius: 0px 0px 150px 150px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(180deg);
+  width: 100%;
+}
+
+.about .looking-to-join-our-1ETIZM {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 94px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(49.90% - 435px);
+  text-align: center;
+  top: 72px;
+  white-space: nowrap;
+  width: 872px;
+}
+
+.about .if-there-is-a-specif-1ETIZM {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 66px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  right: calc(49.90% - 446px);
+  text-align: center;
+  top: 137px;
+  white-space: nowrap;
+  width: 894px;
+}
+
+.about .x2022-1-trolley-busin-1ETIZM {
+  background-color: transparent;
+  bottom: 41px;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(49.90% - 179px);
+  text-align: left;
+  white-space: nowrap;
+  width: 359px;
+}
+
+.about .x1234-1ETIZM {
+  background-color: transparent;
+  bottom: 40px;
+  height: 27px;
+  object-fit: cover;
+  position: absolute;
+  right: 140px;
+  width: 161px;
+}
+
+.about .group-24-1ETIZM {
+  background-color: transparent;
+  bottom: 134px;
+  height: 606px;
+  left: calc(50.00% - 517px);
+  position: absolute;
+  width: 1034px;
+}
+
+.about .rectangle-18-tVodfk {
+  background-color: var(--white);
+  border-radius: 48px;
+  box-shadow: 13px 7px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.about .rectangle-22-tVodfk {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 63px;
+  left: 86px;
+  position: absolute;
+  top: calc(23.66% - 15px);
+  width: 197px;
+}
+
+.about .rectangle-23-tVodfk {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 63px;
+  left: calc(34.92% - 72px);
+  position: absolute;
+  top: calc(23.66% - 15px);
+  width: 205px;
+}
+
+.about .rectangle-21-tVodfk {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 63px;
+  left: 88px;
+  position: absolute;
+  top: calc(44.48% - 28px);
+  width: 407px;
+}
+
+.about .rectangle-24-tVodfk {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 63px;
+  position: absolute;
+  right: 84px;
+  top: calc(23.66% - 15px);
+  width: 407px;
+}
+
+.about .full-name-tVodfk {
+  background-color: transparent;
+  height: 20px;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 101px;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.about .job-title-tVodfk {
+  background-color: transparent;
+  height: 20px;
+  left: calc(30.16% - 21px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.about .email-optional-tVodfk {
+  background-color: transparent;
+  color: var(--geyser);
+  font-family: var(--font-family-arial_rounded_mt);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 20px;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: calc(36.86% - 7px);
+  white-space: nowrap;
+  width: 130px;
+}
+
+.about .span0-JQuo8R {
+}
+
+.about .span1-JQuo8R {
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-style: normal;
+}
+
+.about .years-of-experience-tVodfk {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(37.93% - 59px);
+  text-align: center;
+  top: 103px;
+  white-space: nowrap;
+  width: 156px;
+}
+
+.about .do-you-have-a-drivers-license-tVodfk {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(30.84% - 76px);
+  text-align: center;
+  top: calc(36.86% - 7px);
+  white-space: nowrap;
+  width: 246px;
+}
+
+.about .group-13-tVodfk {
+  background-color: transparent;
+  bottom: calc(36.71% - 30px);
+  height: 83px;
+  left: 89px;
+  position: absolute;
+  width: 404px;
+}
+
+.about .rectangle-19-E2aYpg {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: calc(100.00% - 20px);
+  left: -2px;
+  position: absolute;
+  top: 22px;
+  width: calc(100.00% + 3px);
+}
+
+.about .phone-number-E2aYpg {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 118px;
+}
+
+.about .group-14-tVodfk {
+  background-color: transparent;
+  bottom: calc(36.71% - 30px);
+  height: 83px;
+  position: absolute;
+  right: 85px;
+  width: 404px;
+}
+
+.about .rectangle-19-rptvid {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: calc(100.00% - 20px);
+  left: -2px;
+  position: absolute;
+  top: 22px;
+  width: calc(100.00% + 3px);
+  text-align: left;
+  font-size: var(--font-size-xxl);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  /* justify-content: center; */
+}
+
+.about .upload-your-cv-resume-optional-rptvid {
+  background-color: transparent;
+  color: var(--geyser);
+  font-family: var(--font-family-arial_rounded_mt);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 280px;
+}
+
+.about .span0-SQ4NMB {
+}
+
+.about .span1-SQ4NMB {
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-style: normal;
+}
+
+.about .component-5-5-tVodfk {
+  background-color: transparent;
+  bottom: 55px;
+  height: 86px;
+  left: calc(50.00% - 171px);
+  position: absolute;
+  width: 342px;
+}
+
+.about .rectangle-12-NlDspa {
+  background-color: var(--black-haze);
+  border-radius: 43px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  color: var(--venice-blue);
+  border :none;
+  
+}
+.about .rectangle-12-NlDspa:hover{
+  background: linear-gradient(129.72deg, #125c8f 15.36%, #06198d 91.04%, #06178d 104.46%);
+  color: #ffffff;
+
+}
+
+
+.about .request-contact-NlDspa {
+  background-color: transparent;
+  bottom: calc(41.49% - 16px);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  height: 39px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 79px);
+}
+
+.about .component-13-3-tVodfk {
+  background-color: transparent;
+  height: 60px;
+  position: absolute;
+  right: calc(44.05% - 26px);
+  top: calc(44.51% - 27px);
+  width: 60px;
+}
+
+.about .rectangle-25-IfIKjM {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+}
+.about .rectangle-25-IfIKjM:hover {
+  background: linear-gradient(180deg, #125c8f 15.18%, #06178d 142.57%);
+  color: #ffffff;
+
+
+}
+.about .yes-IfIKjM {
+  background-color: transparent;
+  bottom: calc(45.00% - 9px);
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(46.15% - 16px);
+  text-align: center;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.about .component-13-4-tVodfk {
+  background-color: transparent;
+  height: 60px;
+  position: absolute;
+  right: calc(36.76% - 22px);
+  top: calc(44.51% - 27px);
+  width: 60px;
+}
+
+.about .rectangle-25-1t4nxT {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+}
+.about .rectangle-25-1t4nxT:hover{
+  background: linear-gradient(180deg, #125c8f 15.18%, #06178d 142.57%);
+color: #ffffff;
+} 
+.about .no-1t4nxT {
+  background-color: transparent;
+  bottom: calc(45.00% - 9px);
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(47.06% - 12px);
+  text-align: center;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.about .x6776657-tVodfk {
+  background-color: transparent;
+  bottom: calc(35.45% - 20px);
+  height: 56px;
+  position: absolute;
+  right: 83px;
+  width: 56px;
+}
+
+.about .x6776657-5CduOS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.about .our-team-vRTBB9 {
+  background-color: transparent;
+  height: 1306px;
+  left: -253px;
+  position: absolute;
+  top: 1843px;
+  width: 2428px;
+}
+
+.about .x20220620_121024_gb_company_shoot-ifZeX9 {
+  background: linear-gradient(180deg, #125c8f 15.18%, #06178d 142.57%);
+  background-color: transparent;
+  height: 1920px;
+  left: 966px;
+  position: absolute;
+  top: -644px;
+  transform: rotate(90deg);
+  width: calc(100.00% - 1932px);
+}
+
+.about .our-team-ifZeX9 {
+  background-color: transparent;
+  color: var(--black-haze);
+  filter: blur(20px);;
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 452px;
+  font-style: normal;
+  font-weight: 700;
+  height: 525px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 204px;
+  opacity: 0.15;
+  position: absolute;
+  text-align: center;
+  top: 160px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.about .our-team-4hjfuQ {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 228px;
+  font-style: normal;
+  font-weight: 700;
+  height: 266px;
+  left: calc(48.00% - 589px);
+  letter-spacing: 0.00px;
+  line-height: 103px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 10px 10px #00000029;
+  top: 132px;
+  white-space: nowrap;
+  width: 1226px;
+}
+
+.about .group-16-ifZeX9 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 982px;
+  left: calc(49.01% - 720px);
+  position: absolute;
+  width: 1469px;
+}
+
+.about .x20220620_144021_gb_company_shoot-2-5kf3NG {
+  background-color: transparent;
+  border-radius: 150px;
+  height: 491px;
+  left: -15px;
+  object-fit: cover;
+  position: absolute;
+  top: -4px;
+  width: 704px;
+}
+
+.about .capture2-5kf3NG {
+  background-color: transparent;
+  border-radius: 150px;
+  bottom: -24px;
+  height: 491px;
+  left: -15px;
+  object-fit: cover;
+  position: absolute;
+  width: 704px;
+}
+
+.about .x20220620_143321_gb_company_shoot-5kf3NG {
+  background-color: transparent;
+  border-radius: 150px;
+  height: 491px;
+  object-fit: cover;
+  position: absolute;
+  right: -15px;
+  top: -4px;
+  width: 704px;
+}
+
+.about .x20220620_142802_gb_company_shoot-2-5kf3NG {
+  background-color: transparent;
+  border-radius: 150px;
+  bottom: -24px;
+  height: 491px;
+  object-fit: cover;
+  position: absolute;
+  right: -15px;
+  width: 704px;
+}
+
+.about .x20220620_120028_gb_company_shoot-5kf3NG {
+  background-color: var(--resolution-blue);
+  border-radius: 150px;
+  height: 462px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  transform: rotate(180deg);
+  width: 674px;
+}
+
+.about .x20220620_120028_gb_company_shoot-hu6Tpw {
+  background-color: var(--resolution-blue);
+  border-radius: 150px;
+  bottom: 0px;
+  height: 462px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  transform: rotate(180deg);
+  width: 674px;
+}
+
+.about .x20220620_120028_gb_company_shoot-spQJ9u {
+  background-color: var(--resolution-blue);
+  border-radius: 150px;
+  height: 462px;
+  opacity: 0.3;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transform: rotate(180deg);
+  width: 674px;
+}
+
+.about .x20220620_120028_gb_company_shoot-z8V8Dx {
+  background-color: var(--resolution-blue);
+  border-radius: 150px;
+  bottom: 0px;
+  height: 462px;
+  opacity: 0.3;
+  position: absolute;
+  right: 0px;
+  transform: rotate(180deg);
+  width: 674px;
+}
+
+.about .x1-tb-logo-vRTBB9 {
+  background-color: transparent;
+  height: 68px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 310px;
+}
+/* screen - ipad-about */
+
+.ipad-about {
+  background-color: var(--black-haze);
+  height: 2173px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 768px;
+}
+
+.ipad-about .untitled-1-ynjnen {
+  background-color: transparent;
+  height: 288px;
+  left: 395px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 293px;
+}
+
+.ipad-about .empowering-communities-ynjnen {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 142px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-about .through-digital-transformation-ynjnen {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 80px;
+  letter-spacing: 2.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 184px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-about .award-14x-ynjnen {
+  background-color: transparent;
+  height: 47px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 253px;
+  width: 62px;
+}
+
+.ipad-about .award-24x-ynjnen {
+  background-color: transparent;
+  height: 47px;
+  left: 251px;
+  object-fit: cover;
+  position: absolute;
+  top: 253px;
+  width: 62px;
+}
+
+.ipad-about .x1st-portfolio-compan-ynjnen {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 312px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-about .ebrd-star-ventureawa-ynjnen {
+  background-color: transparent;
+  height: auto;
+  left: 220px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 312px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-about .x1-tb-logo-ynjnen {
+  background-color: transparent;
+  height: 40px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 183px;
+}
+
+.ipad-about .group-42-ynjnen {
+  background-color: transparent;
+  height: 14px;
+  left: 667px;
+  position: absolute;
+  top: 47px;
+  width: 21px;
+}
+
+.ipad-about .line-4-xd5xBq {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.ipad-about .line-5-xd5xBq {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.ipad-about .line-6-xd5xBq {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.ipad-about .rectangle-42-ynjnen {
+  background: linear-gradient(154.29deg, #125c8f 8.79%, #06198d 100.97%, #06178d 117.32%);
+  background-color: transparent;
+  border-radius: 0px 0px 60px 60px;
+  height: 675px;
+  left: 0px;
+  position: absolute;
+  top: 1498px;
+  transform: rotate(180deg);
+  width: 768px;
+}
+
+.ipad-about .lets-make-it-all-happen-ynjnen {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 263px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 1540px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-about .if-youre-ready-to-se-ynjnen {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 162px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 1582px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-about .x2022-1-trolley-busin-ynjnen {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 262px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 2104px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-about .x1234-ynjnen {
+  background-color: transparent;
+  height: 21px;
+  left: 321px;
+  object-fit: cover;
+  position: absolute;
+  top: 2068px;
+  width: 127px;
+}
+
+.ipad-about .artboard-1-ynjnen {
+  background-color: transparent;
+  height: 399px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 769px;
+}
+
+.ipad-about .artboard-1-h7nKUz {
+  background-color: transparent;
+  height: 291px;
+  left: 454px;
+  object-fit: cover;
+  position: absolute;
+  top: 320px;
+  width: 234px;
+}
+
+.ipad-about .x1-trolley-is-an-inte-ynjnen {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 485px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-about .who-we-are-ynjnen {
+  background-color: transparent;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 448px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-about .awards-ynjnen {
+  background-color: transparent;
+  height: 112px;
+  left: -310px;
+  position: absolute;
+  top: 713px;
+  width: 842px;
+}
+
+.ipad-about .x20220620_121024_gb_company_shoot-z5MfZT {
+  background: linear-gradient(180deg, #125c8f 15.18%, #06178d 142.57%);
+  background-color: transparent;
+  border-radius: 106px;
+  height: calc(100.00% + 730px);
+  left: 365px;
+  position: absolute;
+  top: -365px;
+  transform: rotate(90deg);
+  width: calc(100.00% - 730px);
+}
+
+.ipad-about .group-11-z5MfZT {
+  background-color: transparent;
+  bottom: calc(48.84% - 37px);
+  height: 76px;
+  position: absolute;
+  right: 51px;
+  width: 402px;
+}
+
+.ipad-about .award-14x-sihlPg {
+  background-color: transparent;
+  height: 45px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+
+.ipad-about .award-24x-sihlPg {
+  background-color: transparent;
+  height: 45px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.20% - 11px);
+  top: 0px;
+  width: 60px;
+}
+
+.ipad-about .x1st-portfolio-compan-sihlPg {
+  background-color: transparent;
+  bottom: -3px;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 164px;
+}
+
+.ipad-about .ebrd-star-venture-aw-sihlPg {
+  background-color: transparent;
+  bottom: -3px;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.ipad-about .group-57-ynjnen {
+  background-color: transparent;
+  height: 234px;
+  left: -118px;
+  position: absolute;
+  top: 873px;
+  width: 1006px;
+}
+
+.ipad-about .x20220620_121024_gb_company_shoot-AcNhcr {
+  background: linear-gradient(180deg, #125c8f 15.18%, #06178d 142.57%);
+  background-color: transparent;
+  height: calc(100.00% + 565px);
+  left: 401px;
+  position: absolute;
+  top: -268px;
+  transform: rotate(90deg);
+  width: calc(100.00% - 799px);
+}
+
+.ipad-about .our-team-AcNhcr {
+  background-color: transparent;
+  color: var(--black-haze);
+  filter: blur(20px);;
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 187px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% - 16px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 84px;
+  opacity: 0.15;
+  position: absolute;
+  text-align: center;
+  top: 66px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ipad-about .our-team-aFgGSw {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 94px;
+  font-style: normal;
+  font-weight: 700;
+  height: 111px;
+  left: calc(48.00% - 243px);
+  letter-spacing: 0.00px;
+  line-height: 43px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 10px 10px #00000029;
+  top: 54px;
+  white-space: nowrap;
+  width: 506px;
+}
+
+.ipad-about .group-56-ynjnen {
+  background-color: transparent;
+  height: 444px;
+  left: 74px;
+  position: absolute;
+  top: 1009px;
+  width: 621px;
+}
+
+.ipad-about .artboard-1-HDmpaU {
+  background-color: transparent;
+  height: 221px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 310px;
+}
+
+.ipad-about .artboard-2-HDmpaU {
+  background-color: transparent;
+  height: 220px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 311px;
+}
+
+.ipad-about .artboard-4-HDmpaU {
+  background-color: transparent;
+  bottom: 0px;
+  height: 219px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  width: 309px;
+}
+
+.ipad-about .artboard-3-HDmpaU {
+  background-color: transparent;
+  bottom: 3px;
+  height: 226px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 310px;
+}
+
+.ipad-about .we-empower-impactful-ynjnen {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 189px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 142px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-about .we-help-businesses-a-ynjnen {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 133px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 228px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ipad-about .x1-tb-logo-h7nKUz {
+  background-color: transparent;
+  height: 40px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 183px;
+}
+
+.ipad-about .group-61-ynjnen {
+  background-color: transparent;
+  height: 356px;
+  left: 80px;
+  position: absolute;
+  top: 1667px;
+  width: 608px;
+}
+
+.ipad-about .group-59-Gthv8j {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-about .rectangle-18-7xjxcW {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: 13px 7px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-about .rectangle-22-7xjxcW {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 39px;
+  left: 50px;
+  position: absolute;
+  top: calc(23.50% - 9px);
+  width: 117px;
+}
+
+.ipad-about .rectangle-23-7xjxcW {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 39px;
+  left: calc(34.88% - 43px);
+  position: absolute;
+  top: calc(23.50% - 9px);
+  width: 122px;
+}
+
+.ipad-about .rectangle-21-7xjxcW {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 38px;
+  left: 50px;
+  position: absolute;
+  top: calc(44.50% - 17px);
+  width: 241px;
+}
+
+.ipad-about .rectangle-24-7xjxcW {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 39px;
+  position: absolute;
+  right: 48px;
+  top: calc(23.50% - 9px);
+  width: 241px;
+}
+
+.ipad-about .full-name-7xjxcW {
+  background-color: transparent;
+  height: 13px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.ipad-about .job-title-7xjxcW {
+  background-color: transparent;
+  height: 13px;
+  left: calc(30.11% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.ipad-about .email-optional-7xjxcW {
+  background-color: transparent;
+  height: 13px;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  top: calc(37.03% - 5px);
+  white-space: nowrap;
+  width: 74px;
+}
+
+.ipad-about .span0-Qg6M2F {
+}
+
+.ipad-about .span1-Qg6M2F {
+}
+
+.ipad-about .years-of-experience-7xjxcW {
+  background-color: transparent;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: calc(38.46% - 34px);
+  text-align: center;
+  top: 61px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.ipad-about .do-you-have-a-drivers-license-7xjxcW {
+  background-color: transparent;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: calc(31.62% - 44px);
+  text-align: center;
+  top: calc(37.03% - 5px);
+  white-space: nowrap;
+  width: 140px;
+}
+
+.ipad-about .group-13-7xjxcW {
+  background-color: transparent;
+  bottom: calc(36.69% - 18px);
+  height: 48px;
+  left: 52px;
+  position: absolute;
+  width: 238px;
+}
+
+.ipad-about .rectangle-19-5X1dF7 {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: calc(100.00% - 10px);
+  left: -2px;
+  position: absolute;
+  top: 12px;
+  width: calc(100.00% + 3px);
+}
+
+.ipad-about .phone-number-5X1dF7 {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.ipad-about .group-14-7xjxcW {
+  background-color: transparent;
+  bottom: calc(36.69% - 18px);
+  height: 48px;
+  position: absolute;
+  right: 50px;
+  width: 238px;
+}
+
+.ipad-about .rectangle-19-hB3pVT {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: calc(100.00% - 10px);
+  left: -1px;
+  position: absolute;
+  top: 12px;
+  width: calc(100.00% + 3px);
+  text-align: left;
+  font-size: var(--font-size-l);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+}
+
+.ipad-about .upload-your-cv-resume-optional-hB3pVT {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.ipad-about .span0-RtoKGX {
+}
+
+.ipad-about .span1-RtoKGX {
+}
+
+.ipad-about .component-13-5-7xjxcW {
+  background-color: transparent;
+  height: 35px;
+  position: absolute;
+  right: calc(44.50% - 16px);
+  top: calc(44.55% - 16px);
+  width: 35px;
+  /* background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: bold; */
+  /* height: calc(100.00% + 3px); */
+  /* left: -2px; */
+  /* position: absolute; */
+  /* top: -2px; */
+  /* width: calc(100.00% + 3px); */
+}
+/* .ipad-about .component-13-5-7xjxcW:hover{
+  background: linear-gradient(164.98deg, #125c8f 6.23%, #06198d 104.86%, #06178d 122.35%);
+  color: #ffffff;
+
+} */
+
+.ipad-about .rectangle-25-KhFWQc {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: bold;
+}
+.ipad-about .rectangle-25-KhFWQc:hover {
+  background: linear-gradient(164.98deg, #125c8f 6.23%, #06198d 104.86%, #06178d 122.35%);
+  color: #ffffff;
+}
+.ipad-about .rectangle-25-KhFWQc:hover {
+  background: linear-gradient(164.98deg, #125c8f 6.23%, #06198d 104.86%, #06178d 122.35%);
+  color: #ffffff;
+}
+.ipad-about .yes-KhFWQc {
+  background-color: transparent;
+  bottom: calc(40.91% - 5px);
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: calc(46.67% - 9px);
+  text-align: center;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.ipad-about .component-13-6-7xjxcW {
+  background-color: transparent;
+  height: 35px;
+  position: absolute;
+  right: calc(36.82% - 13px);
+  top: calc(44.55% - 16px);
+  width: 35px;
+}
+
+.ipad-about .rectangle-25-xzhC4h {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: bold;
+  /* border: none; */
+}
+.ipad-about .rectangle-25-xzhC4h:hover {
+
+  background: linear-gradient(164.98deg, #125c8f 6.23%, #06198d 104.86%, #06178d 122.35%);
+  color: #fff;
+}
+
+.ipad-about .no-xzhC4h {
+  background-color: transparent;
+  bottom: calc(40.91% - 5px);
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: calc(42.11% - 7px);
+  text-align: center;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.ipad-about .x6776657-7xjxcW {
+  background-color: transparent;
+  bottom: calc(35.29% - 12px);
+  height: 33px;
+  position: absolute;
+  right: 49px;
+  width: 33px;
+}
+
+.ipad-about .x6776657-zohedA {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ipad-about .group-42-h7nKUz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 667px;
+  position: absolute;
+  top: 35px;
+  width: 21px;
+}
+
+.ipad-about .line-4-KIABbf {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.ipad-about .line-5-KIABbf {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.ipad-about .line-6-KIABbf {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.ipad-about .component-5-19-ynjnen {
+  background-color: transparent;
+  height: 32px;
+  left: 316px;
+  position: absolute;
+  top: 1955px;
+  width: 136px;
+}
+
+.ipad-about .rectangle-12-x4fZ1d {
+  background-color: var(--black-haze);
+  border-radius: 43px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  border:none;
+}
+.ipad-about .rectangle-12-x4fZ1d:hover {
+  background: linear-gradient(164.98deg, #125c8f 6.23%, #06198d 104.86%, #06178d 122.35%);
+  color: #fff;
+
+}
+
+.ipad-about .request-contact-x4fZ1d {
+  background-color: transparent;
+  bottom: calc(35.71% - 6px);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: 18px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 20px);
+}
+/* screen - phone-about-all-breakpoints */
+
+.phone-about-all-breakpoints {
+  background-color: var(--black-haze);
+  height: 2399px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.phone-about-all-breakpoints .artboard-1-qlJHpd {
+  background-color: transparent;
+  border-radius: 0px 0px 60px 60px;
+  height: 401px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.phone-about-all-breakpoints .x1-tb-logo-qlJHpd {
+  background-color: transparent;
+  height: 30px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 136px;
+}
+
+.phone-about-all-breakpoints .rectangle-42-qlJHpd {
+  background: linear-gradient(164.98deg, #125c8f 6.23%, #06198d 104.86%, #06178d 122.35%);
+  background-color: transparent;
+  border-radius: 0px 0px 60px 60px;
+  height: 687px;
+  left: 0px;
+  position: absolute;
+  top: 1712px;
+  transform: rotate(180deg);
+  width: 100%;
+}
+
+.phone-about-all-breakpoints .lets-make-it-all-happen-qlJHpd {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1757px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .if-youre-ready-to-se-qlJHpd {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 1781px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .x2022-1-trolley-busin-qlJHpd {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 2350px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .x1234-qlJHpd {
+  background-color: transparent;
+  height: 17px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 2317px;
+  width: 95px;
+}
+
+.phone-about-all-breakpoints .we-empower-impactful-qlJHpd {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 158px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .we-help-businesses-a-qlJHpd {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 232px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .x1-trolley-is-an-inte-qlJHpd {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 444px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .who-we-are-qlJHpd {
+  background-color: transparent;
+  height: auto;
+  left: 164px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 413px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .award-14x-qlJHpd {
+  background-color: transparent;
+  height: 45px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 687px;
+  width: 60px;
+}
+
+.phone-about-all-breakpoints .award-24x-qlJHpd {
+  background-color: transparent;
+  height: 45px;
+  left: 275px;
+  object-fit: cover;
+  position: absolute;
+  top: 687px;
+  width: 60px;
+}
+
+.phone-about-all-breakpoints .x1st-portfolio-compan-qlJHpd {
+  background-color: transparent;
+  color: #0a2e8e;
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 741px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .ebrd-star-ventureawa-qlJHpd {
+  background-color: transparent;
+  color: #0a2e8e;
+  font-family: var(--font-family-arialrounded_mt-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 240px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 741px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .group-58-qlJHpd {
+  background-color: transparent;
+  height: 142px;
+  left: -89px;
+  position: absolute;
+  top: 811px;
+  width: 608px;
+}
+
+.phone-about-all-breakpoints .x20220620_121024_gb_company_shoot-M9OkTm {
+  background: linear-gradient(180deg, #125c8f 15.18%, #06178d 142.57%);
+  background-color: transparent;
+  height: calc(100.00% + 343px);
+  left: 243px;
+  position: absolute;
+  top: -163px;
+  transform: rotate(90deg);
+  width: calc(100.00% - 481px);
+}
+
+.phone-about-all-breakpoints .our-team-M9OkTm {
+  background-color: transparent;
+  color: var(--black-haze);
+  filter: blur(20px);;
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 113px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% - 9px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 51px;
+  opacity: 0.15;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.phone-about-all-breakpoints .our-team-9dMSW0 {
+  background-color: transparent;
+  color: var(--black-haze);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: 60px;
+  left: calc(50.00% - 135px);
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 10px 10px #00000029;
+  top: 35px;
+  white-space: nowrap;
+  width: 270px;
+}
+
+.phone-about-all-breakpoints .artboard-1-NziOqK {
+  background-color: transparent;
+  height: 199px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 901px;
+  width: 280px;
+}
+
+.phone-about-all-breakpoints .artboard-2-qlJHpd {
+  background-color: transparent;
+  height: 196px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 1291px;
+  width: 277px;
+}
+
+.phone-about-all-breakpoints .artboard-4-qlJHpd {
+  background-color: transparent;
+  height: 191px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 1487px;
+  width: 269px;
+}
+
+.phone-about-all-breakpoints .artboard-3-qlJHpd {
+  background-color: transparent;
+  height: 202px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 1089px;
+  width: 278px;
+}
+
+.phone-about-all-breakpoints .rectangle-18-qlJHpd {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: 13px 7px 12px #00000029;
+  height: 450px;
+  left: 37px;
+  position: absolute;
+  top: 1837px;
+  width: 354px;
+}
+
+.phone-about-all-breakpoints .years-of-experience-qlJHpd {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  top: 2061px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .upload-your-cv-optional-qlJHpd {
+  background-color: transparent;
+  height: auto;
+  left: 219px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  top: 2061px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .span0-URztW6 {
+}
+
+.phone-about-all-breakpoints .span1-URztW6 {
+}
+
+.phone-about-all-breakpoints .do-you-have-a-drivers-license-qlJHpd {
+  background-color: transparent;
+  height: auto;
+  left: 145px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  top: 2132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .rectangle-45-qlJHpd {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  left: 80px;
+  position: absolute;
+  top: 1888px;
+  width: 129px;
+}
+
+.phone-about-all-breakpoints .rectangle-46-qlJHpd {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  left: 216px;
+  position: absolute;
+  top: 1888px;
+  width: 133px;
+}
+
+.phone-about-all-breakpoints .rectangle-47-qlJHpd {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  left: 79px;
+  position: absolute;
+  top: 1943px;
+  width: 271px;
+}
+
+.phone-about-all-breakpoints .rectangle-48-qlJHpd {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  left: 79px;
+  position: absolute;
+  top: 2008px;
+  width: 271px;
+}
+
+.phone-about-all-breakpoints .rectangle-49-qlJHpd {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  left: 80px;
+  position: absolute;
+  top: 2073px;
+  width: 130px;
+}
+
+.phone-about-all-breakpoints .rectangle-50-qlJHpd {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: 37px;
+  left: 218px;
+  position: absolute;
+  top: 2073px;
+  width: 130px;
+  text-align: center;
+  font-size: 7px;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+}
+
+.phone-about-all-breakpoints .full-name-qlJHpd {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: 1878px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .job-title-qlJHpd {
+  background-color: transparent;
+  height: auto;
+  left: 217px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  top: 1878px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .email-qlJHpd {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: 1932px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .phone-number-qlJHpd {
+  background-color: transparent;
+  height: auto;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: 1996px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.phone-about-all-breakpoints .component-5-16-qlJHpd {
+  background-color: transparent;
+  height: 30px;
+  left: 151px;
+  position: absolute;
+  top: 2223px;
+  width: 128px;
+}
+
+.phone-about-all-breakpoints .rectangle-12-UNEgav {
+  background-color: var(--black-haze);
+  border-radius: 43px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  border: none;
+}
+.phone-about-all-breakpoints .rectangle-12-UNEgav:hover {
+  background: linear-gradient(164.98deg, rgb(18, 92, 143) 6.23%, rgb(6, 25, 141) 104.86%, rgb(6, 23, 141) 122.35%);
+  color: rgb(255, 255, 255);
+}
+.phone-about-all-breakpoints .request-contact-UNEgav {
+  background-color: transparent;
+  bottom: calc(40.63% - 6px);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 14px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 36px);
+}
+
+.phone-about-all-breakpoints .group-42-qlJHpd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 370px;
+  position: absolute;
+  top: 50px;
+  width: 21px;
+}
+
+.phone-about-all-breakpoints .line-4-YKeD8t {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.phone-about-all-breakpoints .line-5-YKeD8t {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.phone-about-all-breakpoints .line-6-YKeD8t {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.phone-about-all-breakpoints .component-13-9-qlJHpd {
+  background-color: transparent;
+  height: 35px;
+  left: 175px;
+  position: absolute;
+  top: 2156px;
+  width: 35px;
+}
+
+.phone-about-all-breakpoints .rectangle-25-eC5P78 {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: bold;
+}
+.phone-about-all-breakpoints .rectangle-25-eC5P78:hover {
+  background: linear-gradient(164.98deg, #125c8f 6.23%, #06198d 104.86%, #06178d 122.35%);
+  color: #fff;
+}
+.phone-about-all-breakpoints .yes-eC5P78 {
+  background-color: transparent;
+  bottom: calc(40.91% - 5px);
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: calc(46.67% - 9px);
+  text-align: center;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.phone-about-all-breakpoints .component-13-10-qlJHpd {
+  background-color: transparent;
+  height: 35px;
+  left: 219px;
+  position: absolute;
+  top: 2156px;
+  width: 35px;
+}
+
+.phone-about-all-breakpoints .rectangle-25-0H0xmF {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--geyser);
+  border-radius: 8px;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+  color: var(--venice-blue);
+  font-family: var(--font-family-arialrounded_mt-bold);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: bold;
+}
+.phone-about-all-breakpoints .rectangle-25-0H0xmF:hover {
+  background: linear-gradient(164.98deg, #125c8f 6.23%, #06198d 104.86%, #06178d 122.35%);
+  color: #fff;
+
+}
+
+.phone-about-all-breakpoints .no-0H0xmF {
+  background-color: transparent;
+  bottom: calc(40.91% - 5px);
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: calc(42.11% - 7px);
+  text-align: center;
+  white-space: nowrap;
+  width: 16px;
+}
+@media screen and (max-width: 767px) {
+  .screen.about { 
+    display: none;
+   }
+  .screen.ipad-about { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1137px) {
+  .screen.about { 
+    display: none;
+   }
+  .screen.phone-about-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1138px) {
+  .screen.ipad-about { 
+    display: none;
+   }
+  .screen.phone-about-all-breakpoints { 
+    display: none;
+   }
+}
